@@ -1,0 +1,16 @@
+{
+  "short_name": "Placement Tracker",
+  "name": "Placement Tracker PWA - 30 Day DSA Challenge",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0b0f19",
+  "theme_color": "#0c94eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}
