@@ -10,9 +10,11 @@ import {
   Check, 
   Clock, 
   Send,
-  Smartphone
+  Smartphone,
+  QrCode
 } from 'lucide-react';
 import { useTrackerStore } from '../../store/useTrackerStore';
+import { QrSyncModal } from './QrSyncModal';
 
 export const SettingsView: React.FC = () => {
   const { 
@@ -35,6 +37,7 @@ export const SettingsView: React.FC = () => {
   const [importJson, setImportJson] = useState('');
   const [inputSyncCode, setInputSyncCode] = useState('');
   const [copiedCode, setCopiedCode] = useState(false);
+  const [isQrModalOpen, setIsQrModalOpen] = useState(false);
   const [msg, setMsg] = useState<{ text: string; isError: boolean } | null>(null);
 
   const handleToggleNotifications = async (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -188,6 +191,38 @@ export const SettingsView: React.FC = () => {
         )}
       </div>
 
+      {/* Option 1: Instant QR Code Scan Sync */}
+      <div className="glass-panel p-6 rounded-3xl border border-brand-500/30 bg-gradient-to-r from-brand-950/60 via-slate-900 to-slate-900 space-y-4 shadow-xl">
+        <div className="flex items-center justify-between flex-wrap gap-4">
+          <div className="flex items-center space-x-3">
+            <div className="w-12 h-12 rounded-2xl bg-brand-600/20 text-brand-400 flex items-center justify-center border border-brand-500/40 shadow-md">
+              <QrCode className="w-6 h-6" />
+            </div>
+            <div>
+              <div className="flex items-center space-x-2">
+                <h3 className="text-base font-extrabold text-slate-100">
+                  Instant QR Code Mobile Sync
+                </h3>
+                <span className="px-2 py-0.5 text-[10px] font-extrabold rounded-md bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
+                  1-Second Scan
+                </span>
+              </div>
+              <p className="text-xs text-slate-300">
+                Scan with your phone camera to instantly sync your laptop solved progress, notes & streak (100% Offline & Serverless).
+              </p>
+            </div>
+          </div>
+
+          <button
+            onClick={() => setIsQrModalOpen(true)}
+            className="flex items-center space-x-2 px-5 py-3 rounded-2xl bg-gradient-to-r from-brand-600 to-accent-600 hover:from-brand-500 hover:to-accent-500 text-white text-xs font-extrabold shadow-lg shadow-brand-500/30 transition-all transform active:scale-95 cursor-pointer"
+          >
+            <QrCode className="w-4 h-4" />
+            <span>Generate Mobile QR Code</span>
+          </button>
+        </div>
+      </div>
+
       {/* Sync Progress Across All Devices */}
       <div className="glass-panel p-6 rounded-3xl border border-slate-800/80 space-y-4">
         <div className="flex items-center space-x-3">
@@ -334,6 +369,8 @@ export const SettingsView: React.FC = () => {
           Reset All Progress
         </button>
       </div>
+
+      <QrSyncModal isOpen={isQrModalOpen} onClose={() => setIsQrModalOpen(false)} />
     </div>
   );
 };
