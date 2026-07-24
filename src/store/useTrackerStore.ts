@@ -101,6 +101,11 @@ export const useTrackerStore = create<TrackerStoreState>()(
           longestStreak: Math.max(state.longestStreak, longestStreak),
           lastActiveDate: today
         });
+
+        // Auto background cloud sync
+        if (state.syncCode) {
+          get().pushCloudSync().catch(() => {});
+        }
       },
 
       updateProblemStatus: (id: string, status: ProblemStatus) => {
