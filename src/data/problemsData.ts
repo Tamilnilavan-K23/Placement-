@@ -3,9 +3,9 @@ import type { Problem, DayPlan } from '../types/tracker';
 export const INITIAL_DAY_PLANS: DayPlan[] = [
   {
     "day": 1,
-    "title": "Array & Two Pointer Foundations",
-    "description": "Day 1 standard placement preparation module focusing on Array & String Baselines. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Array & String Baselines",
+    "title": "Random Problems",
+    "description": "Day 1 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-101",
       "p-102",
@@ -21,9 +21,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 2,
-    "title": "Sliding Window & Hash Maps",
-    "description": "Day 2 standard placement preparation module focusing on Window & Frequency. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Window & Frequency",
+    "title": "Random Problems",
+    "description": "Day 2 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-111",
       "p-112",
@@ -39,9 +39,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 3,
-    "title": "Binary Search & Rotated Arrays",
-    "description": "Day 3 standard placement preparation module focusing on Logarithmic Search. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Logarithmic Search",
+    "title": "Random Problems",
+    "description": "Day 3 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-121",
       "p-122",
@@ -57,9 +57,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 4,
-    "title": "Linked List Essentials & Reversal",
-    "description": "Day 4 standard placement preparation module focusing on Pointers & Nodes. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Pointers & Nodes",
+    "title": "Random Problems",
+    "description": "Day 4 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-131",
       "p-132",
@@ -75,9 +75,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 5,
-    "title": "Stack & Queue Mechanics",
-    "description": "Day 5 standard placement preparation module focusing on Stack & Queue. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Stack & Queue",
+    "title": "Random Problems",
+    "description": "Day 5 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-141",
       "p-142",
@@ -93,9 +93,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 6,
-    "title": "Binary Tree Traversals & Depth",
-    "description": "Day 6 standard placement preparation module focusing on Trees & Traversal. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Trees & Traversal",
+    "title": "Random Problems",
+    "description": "Day 6 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-151",
       "p-152",
@@ -111,9 +111,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 7,
-    "title": "Binary Search Tree (BST) Operations",
-    "description": "Day 7 standard placement preparation module focusing on BST Properties. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "BST Properties",
+    "title": "Random Problems",
+    "description": "Day 7 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-161",
       "p-162",
@@ -129,9 +129,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 8,
-    "title": "Heap & Priority Queue Applications",
-    "description": "Day 8 standard placement preparation module focusing on Priority Queue. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Priority Queue",
+    "title": "Random Problems",
+    "description": "Day 8 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-171",
       "p-172",
@@ -147,9 +147,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 9,
-    "title": "Graph BFS, DFS & Grid Traversals",
-    "description": "Day 9 standard placement preparation module focusing on Graph Exploration. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Graph Exploration",
+    "title": "Random Problems",
+    "description": "Day 9 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-181",
       "p-182",
@@ -165,9 +165,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 10,
-    "title": "Topological Sort & Shortest Paths",
-    "description": "Day 10 standard placement preparation module focusing on Directed Graphs. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Directed Graphs",
+    "title": "Random Problems",
+    "description": "Day 10 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-191",
       "p-192",
@@ -183,9 +183,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 11,
-    "title": "Greedy Algorithms & Interval Scheduling",
-    "description": "Day 11 standard placement preparation module focusing on Greedy Choices. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Greedy Choices",
+    "title": "Random Problems",
+    "description": "Day 11 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-201",
       "p-202",
@@ -201,9 +201,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 12,
-    "title": "Backtracking & Permutations",
-    "description": "Day 12 standard placement preparation module focusing on Recursive Search. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Recursive Search",
+    "title": "Random Problems",
+    "description": "Day 12 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-211",
       "p-212",
@@ -219,9 +219,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 13,
-    "title": "Dynamic Programming 1D (Basic)",
-    "description": "Day 13 standard placement preparation module focusing on 1D DP States. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "1D DP States",
+    "title": "Random Problems",
+    "description": "Day 13 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-221",
       "p-222",
@@ -237,9 +237,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 14,
-    "title": "Dynamic Programming 2D & Grid",
-    "description": "Day 14 standard placement preparation module focusing on Grid DP. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Grid DP",
+    "title": "Random Problems",
+    "description": "Day 14 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-231",
       "p-232",
@@ -255,9 +255,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 15,
-    "title": "String Matching & DP (LCS & Edit)",
-    "description": "Day 15 standard placement preparation module focusing on String DP. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "String DP",
+    "title": "Random Problems",
+    "description": "Day 15 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-241",
       "p-242",
@@ -273,9 +273,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 16,
-    "title": "Bit Manipulation & Math Techniques",
-    "description": "Day 16 standard placement preparation module focusing on Bitwise Operations. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Bitwise Operations",
+    "title": "Random Problems",
+    "description": "Day 16 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-251",
       "p-252",
@@ -291,9 +291,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 17,
-    "title": "Matrix Operations & 2D Searching",
-    "description": "Day 17 standard placement preparation module focusing on 2D Grid Mechanics. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "2D Grid Mechanics",
+    "title": "Random Problems",
+    "description": "Day 17 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-261",
       "p-262",
@@ -309,9 +309,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 18,
-    "title": "Advanced Linked List & LRU Cache",
-    "description": "Day 18 standard placement preparation module focusing on Complex Linked Systems. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Complex Linked Systems",
+    "title": "Random Problems",
+    "description": "Day 18 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-271",
       "p-272",
@@ -327,9 +327,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 19,
-    "title": "Tree Paths & Lowest Common Ancestor",
-    "description": "Day 19 standard placement preparation module focusing on Tree Recursion. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Tree Recursion",
+    "title": "Random Problems",
+    "description": "Day 19 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-281",
       "p-282",
@@ -345,9 +345,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 20,
-    "title": "Monotonic Stack & Histogram Area",
-    "description": "Day 20 standard placement preparation module focusing on Stack Monotonicity. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Stack Monotonicity",
+    "title": "Random Problems",
+    "description": "Day 20 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-291",
       "p-292",
@@ -363,9 +363,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 21,
-    "title": "Graph Shortest Path & MST",
-    "description": "Day 21 standard placement preparation module focusing on Advanced Graphs. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Advanced Graphs",
+    "title": "Random Problems",
+    "description": "Day 21 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-301",
       "p-302",
@@ -381,9 +381,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 22,
-    "title": "Trie & Prefix Tree Implementation",
-    "description": "Day 22 standard placement preparation module focusing on Trie Structures. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Trie Structures",
+    "title": "Random Problems",
+    "description": "Day 22 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-311",
       "p-312",
@@ -399,9 +399,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 23,
-    "title": "Union Find & Disjoint Set Union (DSU)",
-    "description": "Day 23 standard placement preparation module focusing on DSU Operations. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "DSU Operations",
+    "title": "Random Problems",
+    "description": "Day 23 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-321",
       "p-322",
@@ -417,9 +417,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 24,
-    "title": "Binary Search on Answer Range",
-    "description": "Day 24 standard placement preparation module focusing on Search Range Predicates. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Search Range Predicates",
+    "title": "Random Problems",
+    "description": "Day 24 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-331",
       "p-332",
@@ -435,9 +435,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 25,
-    "title": "Interval Operations & Sweepline",
-    "description": "Day 25 standard placement preparation module focusing on Interval Sweeping. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Interval Sweeping",
+    "title": "Random Problems",
+    "description": "Day 25 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-341",
       "p-342",
@@ -453,9 +453,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 26,
-    "title": "Dynamic Programming Subsequences",
-    "description": "Day 26 standard placement preparation module focusing on Subsequence DP. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Subsequence DP",
+    "title": "Random Problems",
+    "description": "Day 26 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-351",
       "p-352",
@@ -471,9 +471,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 27,
-    "title": "Advanced Graph & Kosaraju SCC",
-    "description": "Day 27 standard placement preparation module focusing on Graph Connectivity. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Graph Connectivity",
+    "title": "Random Problems",
+    "description": "Day 27 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-361",
       "p-362",
@@ -489,9 +489,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 28,
-    "title": "Hard DP & Matrix Chain Multiplication",
-    "description": "Day 28 standard placement preparation module focusing on Hard DP Transitions. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Hard DP Transitions",
+    "title": "Random Problems",
+    "description": "Day 28 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-371",
       "p-372",
@@ -507,9 +507,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 29,
-    "title": "System Design DSA Patterns",
-    "description": "Day 29 standard placement preparation module focusing on System Patterns. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "System Patterns",
+    "title": "Random Problems",
+    "description": "Day 29 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-381",
       "p-382",
@@ -525,9 +525,9 @@ export const INITIAL_DAY_PLANS: DayPlan[] = [
   },
   {
     "day": 30,
-    "title": "Full OA Final Simulation (Grand Mixed OA)",
-    "description": "Day 30 standard placement preparation module focusing on Grand OA Simulation. Contains 4 Easy, 4 Medium, and 2 Hard OA questions.",
-    "targetFocus": "Grand OA Simulation",
+    "title": "Random Problems",
+    "description": "Day 30 placement preparation module featuring a random mix of 4 Easy, 4 Medium, and 2 Hard OA questions.",
+    "targetFocus": "Random Practice",
     "problemIds": [
       "p-391",
       "p-392",
@@ -547,20 +547,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-101": {
     "id": "p-101",
     "day": 1,
-    "leetcodeNumber": 111,
-    "title": "[Day 1] Two Pointer Pattern Practice #1",
-    "topic": "String",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 189,
+    "title": "Rotate Array",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Two Pointer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Reverse entire array, then reverse first K and remaining N-K elements.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -575,20 +575,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-102": {
     "id": "p-102",
     "day": 1,
-    "leetcodeNumber": 112,
-    "title": "[Day 1] Sliding Window Pattern Practice #2",
-    "topic": "Searching & Sorting",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Sliding%20Window",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Sliding Window property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Track minimum price seen so far and update maximum profit at each step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -603,20 +606,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-103": {
     "id": "p-103",
     "day": 1,
-    "leetcodeNumber": 113,
-    "title": "[Day 1] Binary Search Pattern Practice #3",
-    "topic": "LinkedList",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 1,
+    "title": "Two Sum",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
     "companyTags": [
+      "Amazon",
+      "Microsoft",
+      "Google",
       "Meta",
-      "Oracle"
+      "Uber"
     ],
-    "recognitionHint": "Identify Binary Search property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Store complement (K - current) in Hash Map for O(N) lookup.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -631,20 +637,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-104": {
     "id": "p-104",
     "day": 1,
-    "leetcodeNumber": 114,
-    "title": "[Day 1] Stack Pattern Practice #4",
-    "topic": "Binary Trees",
-    "pattern": "Stack",
+    "leetcodeNumber": 1213,
+    "title": "Intersection of Three Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-three-sorted-arrays/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Advance three pointers simultaneously towards matching values.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -659,21 +665,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-105": {
     "id": "p-105",
     "day": 1,
-    "leetcodeNumber": 211,
-    "title": "[Day 1] LinkedList Intermediate Challenge #1",
-    "topic": "LinkedList",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 45,
+    "title": "Jump Game II",
+    "topic": "Array",
+    "pattern": "Greedy",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
     "companyTags": [
+      "Amazon",
+      "Microsoft",
       "Google",
-      "Walmart",
-      "Uber"
+      "Walmart"
     ],
-    "recognitionHint": "Apply Sliding Window state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Greedily track farthest reachable index within current jump range.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -688,21 +695,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-106": {
     "id": "p-106",
     "day": 1,
-    "leetcodeNumber": 212,
-    "title": "[Day 1] Binary Trees Intermediate Challenge #2",
-    "topic": "Binary Trees",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 287,
+    "title": "Find the Duplicate Number",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft",
+      "Google"
     ],
-    "recognitionHint": "Apply Binary Search state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Treat array values as pointers and apply Floyd's Cycle Detection (fast/slow).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -717,21 +724,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-107": {
     "id": "p-107",
     "day": 1,
-    "leetcodeNumber": 213,
-    "title": "[Day 1] BST Intermediate Challenge #3",
-    "topic": "BST",
-    "pattern": "Stack",
+    "leetcodeNumber": 56,
+    "title": "Merge Intervals",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
     "companyTags": [
+      "Amazon",
+      "Microsoft",
+      "Google",
       "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Uber"
     ],
-    "recognitionHint": "Apply Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort intervals by start time; merge adjacent intervals if start <= prev end.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -746,21 +755,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-108": {
     "id": "p-108",
     "day": 1,
-    "leetcodeNumber": 214,
-    "title": "[Day 1] Greedy Intermediate Challenge #4",
-    "topic": "Greedy",
-    "pattern": "Queue",
+    "leetcodeNumber": 31,
+    "title": "Next Permutation",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Find rightmost non-increasing pivot, swap with next greater, reverse suffix.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -775,24 +785,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-109": {
     "id": "p-109",
     "day": 1,
-    "leetcodeNumber": 511,
-    "title": "[Day 1] Stack Hard OA Question #1",
-    "topic": "Greedy",
-    "pattern": "Stack",
+    "leetcodeNumber": 123,
+    "title": "Best Time to Buy and Sell Stock III",
+    "topic": "Array",
+    "pattern": "DP",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
     "companyTags": [
-      "Google",
-      "Meta",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Stack with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain 4 variables: buy1, sell1, buy2, sell2 representing state transactions.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -805,24 +813,25 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-110": {
     "id": "p-110",
     "day": 1,
-    "leetcodeNumber": 512,
-    "title": "[Day 1] Queue Hard OA Question #2",
-    "topic": "Backtracking",
-    "pattern": "Queue",
+    "leetcodeNumber": 42,
+    "title": "Trapping Rain Water",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
     "companyTags": [
-      "Adobe",
-      "Atlassian",
+      "Amazon",
+      "Microsoft",
       "Google",
-      "Amazon"
+      "Meta",
+      "Goldman Sachs"
     ],
-    "recognitionHint": "Combines Queue with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use two pointers tracking maxLeft and maxRight boundaries.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -835,20 +844,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-111": {
     "id": "p-111",
     "day": 2,
-    "leetcodeNumber": 121,
-    "title": "[Day 2] Binary Search Pattern Practice #1",
-    "topic": "Searching & Sorting",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 350,
+    "title": "Intersection of Two Arrays II",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Binary Search property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use frequency map of parent array and decrement for subset check.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -863,20 +871,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-112": {
     "id": "p-112",
     "day": 2,
-    "leetcodeNumber": 122,
-    "title": "[Day 2] Stack Pattern Practice #2",
-    "topic": "LinkedList",
-    "pattern": "Stack",
+    "leetcodeNumber": 1051,
+    "title": "Height Checker",
+    "topic": "Array",
+    "pattern": "Sliding Window",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/height-checker/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Sort array and find minimum difference arr[i + m - 1] - arr[i].",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -891,20 +898,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-113": {
     "id": "p-113",
     "day": 2,
-    "leetcodeNumber": 123,
-    "title": "[Day 2] Queue Pattern Practice #3",
-    "topic": "Binary Trees",
-    "pattern": "Queue",
+    "leetcodeNumber": 2404,
+    "title": "Most Frequent Even Element",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/most-frequent-even-element/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Queue property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two pointers from left and right; merge smaller element with adjacent until equal.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -919,20 +925,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-114": {
     "id": "p-114",
     "day": 2,
-    "leetcodeNumber": 124,
-    "title": "[Day 2] Heap Pattern Practice #4",
-    "topic": "BST",
-    "pattern": "Heap",
+    "leetcodeNumber": 344,
+    "title": "Reverse String",
+    "topic": "String",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Heap property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Swap s[left] and s[right] while left < right.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -947,21 +953,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-115": {
     "id": "p-115",
     "day": 2,
-    "leetcodeNumber": 221,
-    "title": "[Day 2] Binary Trees Intermediate Challenge #1",
-    "topic": "Binary Trees",
-    "pattern": "Queue",
+    "leetcodeNumber": 2149,
+    "title": "Rearrange Array Elements by Sign",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use positive and negative index pointers to place elements in alternating slots.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -976,21 +981,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-116": {
     "id": "p-116",
     "day": 2,
-    "leetcodeNumber": 222,
-    "title": "[Day 2] BST Intermediate Challenge #2",
-    "topic": "BST",
-    "pattern": "Heap",
+    "leetcodeNumber": 560,
+    "title": "Subarray Sum Equals K",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
     "companyTags": [
-      "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Heap state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Subarray sum is 0 if prefix sum repeats at two different indices.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1005,21 +1010,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-117": {
     "id": "p-117",
     "day": 2,
-    "leetcodeNumber": 223,
-    "title": "[Day 2] Greedy Intermediate Challenge #3",
-    "topic": "Greedy",
-    "pattern": "Linked List",
+    "leetcodeNumber": 43,
+    "title": "Multiply Strings",
+    "topic": "Array",
+    "pattern": "Math",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Linked List state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Simulate manual multiplication using an array to store digits.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1034,21 +1038,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-118": {
     "id": "p-118",
     "day": 2,
-    "leetcodeNumber": 224,
-    "title": "[Day 2] Backtracking Intermediate Challenge #4",
-    "topic": "Backtracking",
-    "pattern": "Tree",
+    "leetcodeNumber": 152,
+    "title": "Maximum Product Subarray",
+    "topic": "Array",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Microsoft",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Track both max and min product ending at current position (negative flips min to max).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1063,24 +1068,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-119": {
     "id": "p-119",
     "day": 2,
-    "leetcodeNumber": 521,
-    "title": "[Day 2] BST Hard OA Question #1",
-    "topic": "Backtracking",
-    "pattern": "BST",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Adobe",
-      "Atlassian",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines BST with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on partition point of smaller array to balance left and right halves.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1093,24 +1097,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-120": {
     "id": "p-120",
     "day": 2,
-    "leetcodeNumber": 522,
-    "title": "[Day 2] Trie Hard OA Question #2",
-    "topic": "Stacks & Queues",
-    "pattern": "Trie",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Meta",
-      "Walmart",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Trie with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Partition smaller array X such that left half count equals right half count.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1123,20 +1127,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-121": {
     "id": "p-121",
     "day": 3,
-    "leetcodeNumber": 131,
-    "title": "[Day 3] Queue Pattern Practice #1",
-    "topic": "LinkedList",
-    "pattern": "Queue",
+    "leetcodeNumber": 125,
+    "title": "Valid Palindrome",
+    "topic": "String",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Queue property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Filter non-alphanumeric chars and compare two pointers from ends.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1151,20 +1155,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-122": {
     "id": "p-122",
     "day": 3,
-    "leetcodeNumber": 132,
-    "title": "[Day 3] Heap Pattern Practice #2",
-    "topic": "Binary Trees",
-    "pattern": "Heap",
+    "leetcodeNumber": 387,
+    "title": "First Unique Character in a String",
+    "topic": "String",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Heap property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Count character occurrences using frequency map or 26-element array.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1179,20 +1183,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-123": {
     "id": "p-123",
     "day": 3,
-    "leetcodeNumber": 133,
-    "title": "[Day 3] Linked List Pattern Practice #3",
-    "topic": "BST",
-    "pattern": "Linked List",
+    "leetcodeNumber": 796,
+    "title": "Rotate String",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Linked List property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Check if s2 is a substring of (s1 + s1) of equal lengths.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1207,20 +1211,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-124": {
     "id": "p-124",
     "day": 3,
-    "leetcodeNumber": 134,
-    "title": "[Day 3] Tree Pattern Practice #4",
-    "topic": "Greedy",
-    "pattern": "Tree",
+    "leetcodeNumber": 1221,
+    "title": "Split a String in Balanced Strings",
+    "topic": "String",
+    "pattern": "Greedy",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/split-a-string-in-balanced-strings/",
     "companyTags": [
-      "Oracle",
       "Amazon"
     ],
-    "recognitionHint": "Identify Tree property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain counter (+1 for 0, -1 for 1); count when score hits 0.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1235,21 +1238,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-125": {
     "id": "p-125",
     "day": 3,
-    "leetcodeNumber": 231,
-    "title": "[Day 3] BST Intermediate Challenge #1",
-    "topic": "BST",
-    "pattern": "Tree",
+    "leetcodeNumber": 128,
+    "title": "Longest Consecutive Sequence",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
     "companyTags": [
+      "Amazon",
+      "Google",
       "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Adobe"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Insert all numbers into Hash Set; only start counting sequence if (num - 1) not in set.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1264,21 +1268,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-126": {
     "id": "p-126",
     "day": 3,
-    "leetcodeNumber": 232,
-    "title": "[Day 3] Greedy Intermediate Challenge #2",
-    "topic": "Greedy",
-    "pattern": "BST",
+    "leetcodeNumber": 229,
+    "title": "Majority Element II",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply BST state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Boyer-Moore Voting Algorithm extended to k-1 candidate counters.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1293,21 +1297,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-127": {
     "id": "p-127",
     "day": 3,
-    "leetcodeNumber": 233,
-    "title": "[Day 3] Backtracking Intermediate Challenge #3",
-    "topic": "Backtracking",
-    "pattern": "Trie",
+    "leetcodeNumber": 15,
+    "title": "3Sum",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/3sum/",
     "companyTags": [
-      "Walmart",
       "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
       "Adobe"
     ],
-    "recognitionHint": "Apply Trie state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort array, fix first element, and use two pointers for remaining pair.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1322,21 +1328,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-128": {
     "id": "p-128",
     "day": 3,
-    "leetcodeNumber": 234,
-    "title": "[Day 3] Stacks & Queues Intermediate Challenge #4",
-    "topic": "Stacks & Queues",
-    "pattern": "Graph",
+    "leetcodeNumber": 209,
+    "title": "Minimum Size Subarray Sum",
+    "topic": "Array",
+    "pattern": "Sliding Window",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Meta",
+      "Google"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use sliding window; expand right until sum >= K, then shrink left to minimize window length.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1351,24 +1357,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-129": {
     "id": "p-129",
     "day": 3,
-    "leetcodeNumber": 531,
-    "title": "[Day 3] DP Hard OA Question #1",
-    "topic": "Stacks & Queues",
-    "pattern": "DP",
+    "leetcodeNumber": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "topic": "Matrix",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     "companyTags": [
-      "Meta",
-      "Walmart",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines DP with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search over value range [min, max] and count elements <= mid across rows.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1381,24 +1385,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-130": {
     "id": "p-130",
     "day": 3,
-    "leetcodeNumber": 532,
-    "title": "[Day 3] Bit Manipulation Hard OA Question #2",
-    "topic": "Heap",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 85,
+    "title": "Maximal Rectangle",
+    "topic": "Matrix",
+    "pattern": "Monotonic Stack",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
     "companyTags": [
-      "Atlassian",
-      "Oracle",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Bit Manipulation with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Convert each matrix row into a histogram and apply Largest Rectangle in Histogram algorithm.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1411,20 +1414,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-131": {
     "id": "p-131",
     "day": 4,
-    "leetcodeNumber": 141,
-    "title": "[Day 4] Linked List Pattern Practice #1",
-    "topic": "Binary Trees",
-    "pattern": "Linked List",
+    "leetcodeNumber": 20,
+    "title": "Valid Parentheses",
+    "topic": "String",
+    "pattern": "Stack",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Linked List property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Push opening brackets onto stack; pop and verify match for closing brackets.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1439,20 +1445,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-132": {
     "id": "p-132",
     "day": 4,
-    "leetcodeNumber": 142,
-    "title": "[Day 4] Tree Pattern Practice #2",
-    "topic": "BST",
-    "pattern": "Tree",
+    "leetcodeNumber": 14,
+    "title": "Longest Common Prefix",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Tree property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Compare horizontal characters across all strings until mismatch.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1467,20 +1474,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-133": {
     "id": "p-133",
     "day": 4,
-    "leetcodeNumber": 143,
-    "title": "[Day 4] BST Pattern Practice #3",
-    "topic": "Greedy",
-    "pattern": "BST",
+    "leetcodeNumber": 205,
+    "title": "Isomorphic Strings",
+    "topic": "String",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify BST property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain bi-directional character mapping dictionaries.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1495,20 +1502,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-134": {
     "id": "p-134",
     "day": 4,
-    "leetcodeNumber": 144,
-    "title": "[Day 4] Trie Pattern Practice #4",
-    "topic": "Backtracking",
-    "pattern": "Trie",
+    "leetcodeNumber": 69,
+    "title": "Sqrt(x)",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Trie property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Binary search on integer range [1, X] checking mid * mid <= X.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1523,21 +1530,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-135": {
     "id": "p-135",
     "day": 4,
-    "leetcodeNumber": 241,
-    "title": "[Day 4] Greedy Intermediate Challenge #1",
-    "topic": "Greedy",
-    "pattern": "Graph",
+    "leetcodeNumber": 75,
+    "title": "Sort Colors",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Apply Dutch National Flag 3-pointer algorithm around low and high range bounds.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1552,21 +1557,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-136": {
     "id": "p-136",
     "day": 4,
-    "leetcodeNumber": 242,
-    "title": "[Day 4] Backtracking Intermediate Challenge #2",
-    "topic": "Backtracking",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 1151,
+    "title": "Minimum Swaps to Group All 1s Together",
+    "topic": "Array",
+    "pattern": "Sliding Window",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/",
     "companyTags": [
-      "Walmart",
-      "Amazon",
-      "Adobe"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Backtracking state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Count elements <= K to determine window size, then find window with max valid elements.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1581,21 +1584,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-137": {
     "id": "p-137",
     "day": 4,
-    "leetcodeNumber": 243,
-    "title": "[Day 4] Stacks & Queues Intermediate Challenge #3",
-    "topic": "Stacks & Queues",
-    "pattern": "Greedy",
+    "leetcodeNumber": 54,
+    "title": "Spiral Matrix",
+    "topic": "Matrix",
+    "pattern": "Matrix",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
     "companyTags": [
-      "Oracle",
+      "Amazon",
       "Microsoft",
-      "Meta"
+      "Google",
+      "Oracle"
     ],
-    "recognitionHint": "Apply Greedy state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Maintain 4 boundaries: top, bottom, left, right and traverse clockwise in loop.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1610,21 +1614,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-138": {
     "id": "p-138",
     "day": 4,
-    "leetcodeNumber": 244,
-    "title": "[Day 4] Heap Intermediate Challenge #4",
-    "topic": "Heap",
-    "pattern": "DP",
+    "leetcodeNumber": 74,
+    "title": "Search a 2D Matrix",
+    "topic": "Matrix",
+    "pattern": "Matrix",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
     "companyTags": [
-      "Goldman Sachs",
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Microsoft",
+      "Meta"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Treat M x N matrix as virtual 1D array or start search from top-right corner.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1639,24 +1643,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-139": {
     "id": "p-139",
     "day": 4,
-    "leetcodeNumber": 541,
-    "title": "[Day 4] Topological Sort Hard OA Question #1",
-    "topic": "Heap",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 68,
+    "title": "Text Justification",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Topological%20Sort",
+    "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
     "companyTags": [
-      "Atlassian",
-      "Oracle",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Uber"
     ],
-    "recognitionHint": "Combines Topological Sort with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "DP state tracking minimum cost/line cost up to index i.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1669,24 +1672,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-140": {
     "id": "p-140",
     "day": 4,
-    "leetcodeNumber": 542,
-    "title": "[Day 4] Monotonic Stack Hard OA Question #2",
-    "topic": "Graph",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Monotonic%20Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
     "companyTags": [
-      "Walmart",
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Monotonic Stack with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Build Longest Prefix Suffix (LPS) array to skip redundant comparisons.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1699,20 +1701,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-141": {
     "id": "p-141",
     "day": 5,
-    "leetcodeNumber": 151,
-    "title": "[Day 5] BST Pattern Practice #1",
-    "topic": "BST",
-    "pattern": "BST",
+    "leetcodeNumber": 169,
+    "title": "Majority Element",
+    "topic": "Searching & Sorting",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify BST property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Boyer-Moore Voting Algorithm: maintain count and increment/decrement based on match.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1727,20 +1731,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-142": {
     "id": "p-142",
     "day": 5,
-    "leetcodeNumber": 152,
-    "title": "[Day 5] Trie Pattern Practice #2",
-    "topic": "Greedy",
-    "pattern": "Trie",
+    "leetcodeNumber": 206,
+    "title": "Reverse Linked List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Trie property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Iteratively update prev, curr, and next pointers.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1755,20 +1762,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-143": {
     "id": "p-143",
     "day": 5,
-    "leetcodeNumber": 153,
-    "title": "[Day 5] Graph Pattern Practice #3",
-    "topic": "Backtracking",
-    "pattern": "Graph",
+    "leetcodeNumber": 141,
+    "title": "Linked List Cycle",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
+      "Google",
       "Microsoft"
     ],
-    "recognitionHint": "Identify Graph property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Floyd's Cycle Finding algorithm: fast pointer moves 2 steps, slow 1 step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1783,20 +1791,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-144": {
     "id": "p-144",
     "day": 5,
-    "leetcodeNumber": 154,
-    "title": "[Day 5] Backtracking Pattern Practice #4",
-    "topic": "Stacks & Queues",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Backtracking property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "If curr.val == curr.next.val, skip next node: curr.next = curr.next.next.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -1811,21 +1819,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-145": {
     "id": "p-145",
     "day": 5,
-    "leetcodeNumber": 251,
-    "title": "[Day 5] Backtracking Intermediate Challenge #1",
-    "topic": "Backtracking",
-    "pattern": "DP",
+    "leetcodeNumber": 1428,
+    "title": "Leftmost Column with at Least a One",
+    "topic": "Matrix",
+    "pattern": "Binary Search",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one/",
     "companyTags": [
-      "Walmart",
-      "Amazon",
-      "Adobe"
+      "Amazon"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Start from top-right corner; if 1, move left to find first 1, else move down.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1840,21 +1846,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-146": {
     "id": "p-146",
     "day": 5,
-    "leetcodeNumber": 252,
-    "title": "[Day 5] Stacks & Queues Intermediate Challenge #2",
-    "topic": "Stacks & Queues",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "topic": "Matrix",
+    "pattern": "Heap",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Bit Manipulation state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Min-Heap containing first element of each row.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1869,21 +1874,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-147": {
     "id": "p-147",
     "day": 5,
-    "leetcodeNumber": 253,
-    "title": "[Day 5] Heap Intermediate Challenge #3",
-    "topic": "Heap",
-    "pattern": "Math",
+    "leetcodeNumber": 48,
+    "title": "Rotate Image",
+    "topic": "Matrix",
+    "pattern": "Matrix",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Math state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "First transpose matrix (swap matrix[i][j] and matrix[j][i]), then reverse each row.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1898,21 +1904,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-148": {
     "id": "p-148",
     "day": 5,
-    "leetcodeNumber": 254,
-    "title": "[Day 5] Graph Intermediate Challenge #4",
-    "topic": "Graph",
-    "pattern": "Matrix",
+    "leetcodeNumber": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "topic": "Matrix",
+    "pattern": "Heap",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Min-Heap initialized with column 0 elements or Binary Search on range.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -1927,24 +1932,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-149": {
     "id": "p-149",
     "day": 5,
-    "leetcodeNumber": 551,
-    "title": "[Day 5] Hash Map Hard OA Question #1",
-    "topic": "Graph",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 76,
+    "title": "Minimum Window Substring",
+    "topic": "String",
+    "pattern": "Sliding Window",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Hash%20Map",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
     "companyTags": [
-      "Walmart",
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Uber"
     ],
-    "recognitionHint": "Combines Hash Map with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Track unique char counts; expand right to fulfill requirement, contract left to minimize.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1957,24 +1962,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-150": {
     "id": "p-150",
     "day": 5,
-    "leetcodeNumber": 552,
-    "title": "[Day 5] Two Pointer Hard OA Question #2",
-    "topic": "Trie",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Oracle",
-      "Uber",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Two Pointer with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on partition size of smaller array ensuring K elements total on left.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -1987,20 +1990,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-151": {
     "id": "p-151",
     "day": 6,
-    "leetcodeNumber": 161,
-    "title": "[Day 6] Graph Pattern Practice #1",
-    "topic": "Greedy",
-    "pattern": "Graph",
+    "leetcodeNumber": 160,
+    "title": "Intersection of Two Linked Lists",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Graph property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Switch pointers pA to headB and pB to headA when reaching null; they meet at intersection.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2015,20 +2019,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-152": {
     "id": "p-152",
     "day": 6,
-    "leetcodeNumber": 162,
-    "title": "[Day 6] Backtracking Pattern Practice #2",
-    "topic": "Backtracking",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 876,
+    "title": "Middle of the Linked List",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Backtracking property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Slow moves 1 step while fast moves 2 steps; slow lands at middle node.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2043,20 +2047,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-153": {
     "id": "p-153",
     "day": 6,
-    "leetcodeNumber": 163,
-    "title": "[Day 6] Greedy Pattern Practice #3",
-    "topic": "Stacks & Queues",
-    "pattern": "Greedy",
+    "leetcodeNumber": 234,
+    "title": "Palindrome Linked List",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Greedy property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Find middle, reverse second half, and compare values with first half.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2071,20 +2076,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-154": {
     "id": "p-154",
     "day": 6,
-    "leetcodeNumber": 164,
-    "title": "[Day 6] DP Pattern Practice #4",
-    "topic": "Heap",
-    "pattern": "DP",
+    "leetcodeNumber": 86,
+    "title": "Partition List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
     "companyTags": [
-      "Amazon",
-      "Adobe"
+      "Amazon"
     ],
-    "recognitionHint": "Identify DP property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain three dummy heads for 0, 1, and 2 lists and append nodes.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2099,21 +2103,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-155": {
     "id": "p-155",
     "day": 6,
-    "leetcodeNumber": 261,
-    "title": "[Day 6] Stacks & Queues Intermediate Challenge #1",
-    "topic": "Stacks & Queues",
-    "pattern": "Matrix",
+    "leetcodeNumber": 38,
+    "title": "Count and Say",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
+      "Amazon",
       "Meta"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Iteratively run run-length encoding on previous string.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2128,21 +2131,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-156": {
     "id": "p-156",
     "day": 6,
-    "leetcodeNumber": 262,
-    "title": "[Day 6] Heap Intermediate Challenge #2",
-    "topic": "Heap",
-    "pattern": "Union Find",
+    "leetcodeNumber": 5,
+    "title": "Longest Palindromic Substring",
+    "topic": "String",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Union Find state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Expand around center for both odd and even length centers.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2157,21 +2161,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-157": {
     "id": "p-157",
     "day": 6,
-    "leetcodeNumber": 263,
-    "title": "[Day 6] Graph Intermediate Challenge #3",
-    "topic": "Graph",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 1143,
+    "title": "Longest Common Subsequence",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Topological Sort state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Find LCS of string with itself where indices i != j.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2186,21 +2188,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-158": {
     "id": "p-158",
     "day": 6,
-    "leetcodeNumber": 264,
-    "title": "[Day 6] Trie Intermediate Challenge #4",
-    "topic": "Trie",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 78,
+    "title": "Subsets",
+    "topic": "String",
+    "pattern": "Backtracking",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/subsets/",
     "companyTags": [
       "Amazon",
-      "Meta",
-      "Oracle"
+      "Google"
     ],
-    "recognitionHint": "Apply Monotonic Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "For each character, recurse including and excluding current char.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2215,24 +2216,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-159": {
     "id": "p-159",
     "day": 6,
-    "leetcodeNumber": 561,
-    "title": "[Day 6] Queue Hard OA Question #1",
-    "topic": "Trie",
-    "pattern": "Queue",
+    "leetcodeNumber": 410,
+    "title": "Split Array Largest Sum",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
     "companyTags": [
-      "Oracle",
-      "Uber",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Queue with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on maximum allowed page sum per student.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -2245,24 +2245,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-160": {
     "id": "p-160",
     "day": 6,
-    "leetcodeNumber": 562,
-    "title": "[Day 6] Heap Hard OA Question #2",
-    "topic": "Dynamic Programming",
-    "pattern": "Heap",
+    "leetcodeNumber": 410,
+    "title": "Split Array Largest Sum",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
     "companyTags": [
-      "Goldman Sachs",
       "Amazon",
-      "Google",
-      "Amazon"
+      "Google"
     ],
-    "recognitionHint": "Combines Heap with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Same as Book Allocation: binary search max length per painter.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -2275,20 +2273,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-161": {
     "id": "p-161",
     "day": 7,
-    "leetcodeNumber": 171,
-    "title": "[Day 7] Greedy Pattern Practice #1",
-    "topic": "Backtracking",
-    "pattern": "Greedy",
+    "leetcodeNumber": 19,
+    "title": "Remove Nth Node From End of List",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Greedy property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Advance fast pointer N steps ahead, then move both fast and slow until fast hits end.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2303,20 +2302,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-162": {
     "id": "p-162",
     "day": 7,
-    "leetcodeNumber": 172,
-    "title": "[Day 7] DP Pattern Practice #2",
-    "topic": "Stacks & Queues",
-    "pattern": "DP",
+    "leetcodeNumber": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify DP property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "1 + max(maxDepth(root.left), maxDepth(root.right)).",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2331,20 +2331,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-163": {
     "id": "p-163",
     "day": 7,
-    "leetcodeNumber": 173,
-    "title": "[Day 7] Bit Manipulation Pattern Practice #3",
-    "topic": "Heap",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 543,
+    "title": "Diameter of Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Bit Manipulation property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Track max(left_height + right_height) at each node during DFS depth recursion.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2359,20 +2361,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-164": {
     "id": "p-164",
     "day": 7,
-    "leetcodeNumber": 174,
-    "title": "[Day 7] Math Pattern Practice #4",
-    "topic": "Graph",
-    "pattern": "Math",
+    "leetcodeNumber": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Math",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Math property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Left -> Root -> Right using explicit stack for iterative approach.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2387,21 +2389,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-165": {
     "id": "p-165",
     "day": 7,
-    "leetcodeNumber": 271,
-    "title": "[Day 7] Heap Intermediate Challenge #1",
-    "topic": "Heap",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 46,
+    "title": "Permutations",
+    "topic": "String",
+    "pattern": "Backtracking",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/permutations/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Meta"
     ],
-    "recognitionHint": "Apply Monotonic Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Swap elements at current index with all subsequent indices recursively.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2416,21 +2418,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-166": {
     "id": "p-166",
     "day": 7,
-    "leetcodeNumber": 272,
-    "title": "[Day 7] Graph Intermediate Challenge #2",
-    "topic": "Graph",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 72,
+    "title": "Edit Distance",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Binary Search on Answer state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "DP grid: insert, delete, or replace operations based on character match.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2445,21 +2448,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-167": {
     "id": "p-167",
     "day": 7,
-    "leetcodeNumber": 273,
-    "title": "[Day 7] Trie Intermediate Challenge #3",
-    "topic": "Trie",
-    "pattern": "Arrays",
+    "leetcodeNumber": 139,
+    "title": "Word Break",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/word-break/",
     "companyTags": [
       "Amazon",
       "Meta",
-      "Oracle"
+      "Google",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Arrays state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "dp[i] is true if dp[j] is true and s[j..i] exists in word dictionary.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2474,21 +2478,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-168": {
     "id": "p-168",
     "day": 7,
-    "leetcodeNumber": 274,
-    "title": "[Day 7] Dynamic Programming Intermediate Challenge #4",
-    "topic": "Dynamic Programming",
+    "leetcodeNumber": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "topic": "String",
     "pattern": "Strings",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Strings state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use rolling hash algorithm to compute window hash in O(1) step.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2503,24 +2506,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-169": {
     "id": "p-169",
     "day": 7,
-    "leetcodeNumber": 571,
-    "title": "[Day 7] Trie Hard OA Question #1",
-    "topic": "Dynamic Programming",
-    "pattern": "Trie",
+    "leetcodeNumber": 25,
+    "title": "Reverse Nodes in k-Group",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
     "companyTags": [
-      "Goldman Sachs",
       "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Trie with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Count node group size; reverse K nodes iteratively and link to next recursed group.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -2533,24 +2535,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-170": {
     "id": "p-170",
     "day": 7,
-    "leetcodeNumber": 572,
-    "title": "[Day 7] Graph Hard OA Question #2",
-    "topic": "Bit Manipulation",
-    "pattern": "Graph",
+    "leetcodeNumber": 23,
+    "title": "Merge k Sorted Lists",
+    "topic": "LinkedList",
+    "pattern": "Heap",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
     "companyTags": [
-      "Uber",
-      "Microsoft",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Graph with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use Min-Heap of list head nodes to pick smallest element in O(log K).",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -2563,20 +2565,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-171": {
     "id": "p-171",
     "day": 8,
-    "leetcodeNumber": 181,
-    "title": "[Day 8] Bit Manipulation Pattern Practice #1",
-    "topic": "Stacks & Queues",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 144,
+    "title": "Binary Tree Preorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
     "companyTags": [
-      "Uber",
+      "Amazon",
       "Google"
     ],
-    "recognitionHint": "Identify Bit Manipulation property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Root -> Left -> Right using explicit stack for iterative approach.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2591,20 +2593,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-172": {
     "id": "p-172",
     "day": 8,
-    "leetcodeNumber": 182,
-    "title": "[Day 8] Math Pattern Practice #2",
-    "topic": "Heap",
-    "pattern": "Math",
+    "leetcodeNumber": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Math",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
     "companyTags": [
-      "Amazon",
-      "Adobe"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Math property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Left -> Right -> Root using two stacks or single stack with prev pointer.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2619,20 +2620,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-173": {
     "id": "p-173",
     "day": 8,
-    "leetcodeNumber": 183,
-    "title": "[Day 8] Matrix Pattern Practice #3",
-    "topic": "Graph",
-    "pattern": "Matrix",
+    "leetcodeNumber": 199,
+    "title": "Binary Tree Right Side View",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Matrix property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "BFS/DFS tracking first node visited at each depth level.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2647,20 +2647,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-174": {
     "id": "p-174",
     "day": 8,
-    "leetcodeNumber": 184,
-    "title": "[Day 8] Union Find Pattern Practice #4",
-    "topic": "Trie",
-    "pattern": "Union Find",
+    "leetcodeNumber": 110,
+    "title": "Balanced Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Union%20Find",
+    "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Union Find property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Return -1 early if abs(left_height - right_height) > 1.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2675,21 +2675,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-175": {
     "id": "p-175",
     "day": 8,
-    "leetcodeNumber": 281,
-    "title": "[Day 8] Graph Intermediate Challenge #1",
-    "topic": "Graph",
-    "pattern": "Strings",
+    "leetcodeNumber": 1963,
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "topic": "String",
+    "pattern": "Greedy",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Strings state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Track max imbalance of open/close brackets; swaps needed = (max_unbalanced + 1) / 2.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2704,21 +2702,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-176": {
     "id": "p-176",
     "day": 8,
-    "leetcodeNumber": 282,
-    "title": "[Day 8] Trie Intermediate Challenge #2",
-    "topic": "Trie",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 1143,
+    "title": "Longest Common Subsequence",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
     "companyTags": [
       "Amazon",
+      "Google",
       "Meta",
-      "Oracle"
+      "Adobe"
     ],
-    "recognitionHint": "Apply Hash Map state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "2D DP grid: if s1[i] == s2[j], 1 + dp[i-1][j-1], else max(dp[i-1][j], dp[i][j-1]).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2733,21 +2732,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-177": {
     "id": "p-177",
     "day": 8,
-    "leetcodeNumber": 283,
-    "title": "[Day 8] Dynamic Programming Intermediate Challenge #3",
-    "topic": "Dynamic Programming",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 767,
+    "title": "Reorganize String",
+    "topic": "String",
+    "pattern": "Heap",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Two Pointer state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Max-Heap of character frequencies; alternate picking top two most frequent chars.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2762,21 +2760,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-178": {
     "id": "p-178",
     "day": 8,
-    "leetcodeNumber": 284,
-    "title": "[Day 8] Bit Manipulation Intermediate Challenge #4",
-    "topic": "Bit Manipulation",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 49,
+    "title": "Group Anagrams",
+    "topic": "String",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Walmart",
-      "Uber"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Sliding Window state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use character count tuple or sorted string as Hash Map key.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2791,24 +2790,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-179": {
     "id": "p-179",
     "day": 8,
-    "leetcodeNumber": 581,
-    "title": "[Day 8] Bit Manipulation Hard OA Question #1",
-    "topic": "Bit Manipulation",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 84,
+    "title": "Largest Rectangle in Histogram",
+    "topic": "Stacks & Queues",
+    "pattern": "Monotonic Stack",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
     "companyTags": [
-      "Uber",
-      "Microsoft",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Bit Manipulation with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain monotonic increasing stack of bar indices to find left/right boundary limits.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -2821,24 +2819,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-180": {
     "id": "p-180",
     "day": 8,
-    "leetcodeNumber": 582,
-    "title": "[Day 8] Math Hard OA Question #2",
-    "topic": "Array",
-    "pattern": "Math",
+    "leetcodeNumber": 239,
+    "title": "Sliding Window Maximum",
+    "topic": "Stacks & Queues",
+    "pattern": "Sliding Window",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Math",
+    "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
     "companyTags": [
       "Amazon",
       "Google",
-      "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Math with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain monotonic decreasing Deque storing indices of current window elements.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -2851,20 +2848,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-181": {
     "id": "p-181",
     "day": 9,
-    "leetcodeNumber": 191,
-    "title": "[Day 9] Matrix Pattern Practice #1",
-    "topic": "Heap",
-    "pattern": "Matrix",
+    "leetcodeNumber": 700,
+    "title": "Search in a Binary Search Tree",
+    "topic": "BST",
+    "pattern": "BST",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google"
     ],
-    "recognitionHint": "Identify Matrix property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Go left if target < val, right if target > val.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2879,20 +2876,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-182": {
     "id": "p-182",
     "day": 9,
-    "leetcodeNumber": 192,
-    "title": "[Day 9] Union Find Pattern Practice #2",
-    "topic": "Graph",
-    "pattern": "Union Find",
+    "leetcodeNumber": 108,
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "topic": "BST",
+    "pattern": "BST",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Union%20Find",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Union Find property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Pick middle element as root and recursively build left and right subtrees.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2907,20 +2904,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-183": {
     "id": "p-183",
     "day": 9,
-    "leetcodeNumber": 193,
-    "title": "[Day 9] Topological Sort Pattern Practice #3",
-    "topic": "Trie",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 225,
+    "title": "Implement Stack using Queues",
+    "topic": "Stacks & Queues",
+    "pattern": "Stack",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Topological%20Sort",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Topological Sort property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Rotate queue elements on push so latest element stays at front.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2935,20 +2931,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-184": {
     "id": "p-184",
     "day": 9,
-    "leetcodeNumber": 194,
-    "title": "[Day 9] Monotonic Stack Pattern Practice #4",
-    "topic": "Dynamic Programming",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 232,
+    "title": "Implement Queue using Stacks",
+    "topic": "Stacks & Queues",
+    "pattern": "Queue",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Monotonic%20Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Monotonic Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two stacks (inputStack and outputStack); transfer only when outputStack is empty.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -2963,21 +2959,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-185": {
     "id": "p-185",
     "day": 9,
-    "leetcodeNumber": 291,
-    "title": "[Day 9] Trie Intermediate Challenge #1",
-    "topic": "Trie",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
     "companyTags": [
       "Amazon",
+      "Google",
       "Meta",
-      "Oracle"
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Sliding Window state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Perform two separate Binary Searches: one for leftmost index, one for rightmost.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -2992,21 +2989,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-186": {
     "id": "p-186",
     "day": 9,
-    "leetcodeNumber": 292,
-    "title": "[Day 9] Dynamic Programming Intermediate Challenge #2",
-    "topic": "Dynamic Programming",
+    "leetcodeNumber": 33,
+    "title": "Search in Rotated Sorted Array",
+    "topic": "Searching & Sorting",
     "pattern": "Binary Search",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Binary Search state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Identify which half (left or right) is sorted, then check if target lies within bounds.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3021,21 +3019,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-187": {
     "id": "p-187",
     "day": 9,
-    "leetcodeNumber": 293,
-    "title": "[Day 9] Bit Manipulation Intermediate Challenge #3",
-    "topic": "Bit Manipulation",
-    "pattern": "Stack",
+    "leetcodeNumber": 645,
+    "title": "Set Mismatch",
+    "topic": "Searching & Sorting",
+    "pattern": "Math",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
     "companyTags": [
-      "Google",
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use sum & sum of squares equations or bitwise XOR partitioning.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3050,21 +3047,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-188": {
     "id": "p-188",
     "day": 9,
-    "leetcodeNumber": 294,
-    "title": "[Day 9] Array Intermediate Challenge #4",
-    "topic": "Array",
-    "pattern": "Queue",
+    "leetcodeNumber": 18,
+    "title": "4Sum",
+    "topic": "Searching & Sorting",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/4sum/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort array, use nested loops for first two numbers, and two pointers for last two.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3079,24 +3075,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-189": {
     "id": "p-189",
     "day": 9,
-    "leetcodeNumber": 591,
-    "title": "[Day 9] Monotonic Stack Hard OA Question #1",
-    "topic": "Array",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 127,
+    "title": "Word Ladder",
+    "topic": "Graph",
+    "pattern": "Graph",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Monotonic%20Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
     "companyTags": [
       "Amazon",
       "Google",
-      "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Monotonic Stack with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "BFS level search mutating 1 char per position matching word set.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -3109,24 +3104,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-190": {
     "id": "p-190",
     "day": 9,
-    "leetcodeNumber": 592,
-    "title": "[Day 9] Binary Search on Answer Hard OA Question #2",
-    "topic": "Matrix",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 51,
+    "title": "N-Queens",
+    "topic": "Backtracking",
+    "pattern": "Backtracking",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search%20on%20Answer",
+    "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
     "companyTags": [
-      "Microsoft",
-      "Adobe",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Binary Search on Answer with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Track occupied columns, main diagonals (r - c), and anti-diagonals (r + c).",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -3139,20 +3132,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-191": {
     "id": "p-191",
     "day": 10,
-    "leetcodeNumber": 201,
-    "title": "[Day 10] Topological Sort Pattern Practice #1",
-    "topic": "Graph",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 70,
+    "title": "Climbing Stairs",
+    "topic": "Dynamic Programming",
+    "pattern": "DP",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Topological%20Sort",
+    "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Topological Sort property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "dp[n] = dp[n-1] + dp[n-2] Fibonacci sequence.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3167,20 +3161,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-192": {
     "id": "p-192",
     "day": 10,
-    "leetcodeNumber": 202,
-    "title": "[Day 10] Monotonic Stack Pattern Practice #2",
-    "topic": "Trie",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 136,
+    "title": "Single Number",
+    "topic": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Monotonic%20Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/single-number/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Meta"
     ],
-    "recognitionHint": "Identify Monotonic Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "XOR all elements together; duplicates cancel out leaving single number.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3195,20 +3190,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-193": {
     "id": "p-193",
     "day": 10,
-    "leetcodeNumber": 203,
-    "title": "[Day 10] Binary Search on Answer Pattern Practice #3",
-    "topic": "Dynamic Programming",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 191,
+    "title": "Number of 1 Bits",
+    "topic": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search%20on%20Answer",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Binary Search on Answer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "n & (n - 1) clears lowest set bit in each iteration.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3223,20 +3218,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-194": {
     "id": "p-194",
     "day": 10,
-    "leetcodeNumber": 204,
-    "title": "[Day 10] Arrays Pattern Practice #4",
+    "leetcodeNumber": 338,
+    "title": "Counting Bits",
     "topic": "Bit Manipulation",
-    "pattern": "Arrays",
+    "pattern": "Bit Manipulation",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Arrays property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "dp[i] = dp[i >> 1] + (i & 1).",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3251,21 +3246,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-195": {
     "id": "p-195",
     "day": 10,
-    "leetcodeNumber": 301,
-    "title": "[Day 10] Dynamic Programming Intermediate Challenge #1",
-    "topic": "Dynamic Programming",
-    "pattern": "Queue",
+    "leetcodeNumber": 198,
+    "title": "House Robber",
+    "topic": "Searching & Sorting",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "dp[i] = max(dp[i-1], dp[i-2] + nums[i]) tracking previous two states.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3280,21 +3275,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-196": {
     "id": "p-196",
     "day": 10,
-    "leetcodeNumber": 302,
-    "title": "[Day 10] Bit Manipulation Intermediate Challenge #2",
-    "topic": "Bit Manipulation",
-    "pattern": "Heap",
+    "leetcodeNumber": 259,
+    "title": "3Sum Smaller",
+    "topic": "Searching & Sorting",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/3sum-smaller/",
     "companyTags": [
-      "Google",
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Heap state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort array; if arr[left] + arr[right] < target, add (right - left) to answer.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3309,21 +3303,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-197": {
     "id": "p-197",
     "day": 10,
-    "leetcodeNumber": 303,
-    "title": "[Day 10] Array Intermediate Challenge #3",
-    "topic": "Array",
-    "pattern": "Linked List",
+    "leetcodeNumber": 88,
+    "title": "Merge Sorted Array",
+    "topic": "Searching & Sorting",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Linked List state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use gap method (Shell sort idea) or backward insertion pointer.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3338,21 +3331,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-198": {
     "id": "p-198",
     "day": 10,
-    "leetcodeNumber": 304,
-    "title": "[Day 10] Matrix Intermediate Challenge #4",
-    "topic": "Matrix",
-    "pattern": "Tree",
+    "leetcodeNumber": 238,
+    "title": "Product of Array Except Self",
+    "topic": "Searching & Sorting",
+    "pattern": "Arrays",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
     "companyTags": [
+      "Amazon",
+      "Google",
       "Meta",
-      "Goldman Sachs",
       "Microsoft"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Compute prefix products in first pass, then multiply suffix products in second pass.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3367,24 +3361,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-199": {
     "id": "p-199",
     "day": 10,
-    "leetcodeNumber": 601,
-    "title": "[Day 10] Two Pointer Hard OA Question #1",
-    "topic": "Matrix",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 37,
+    "title": "Sudoku Solver",
+    "topic": "Backtracking",
+    "pattern": "Backtracking",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
     "companyTags": [
-      "Microsoft",
-      "Adobe",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Two Pointer with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Backtrack try digits '1'-'9' checking row, col, and 3x3 block validity.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -3397,24 +3389,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-200": {
     "id": "p-200",
     "day": 10,
-    "leetcodeNumber": 602,
-    "title": "[Day 10] Sliding Window Hard OA Question #2",
-    "topic": "String",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 88,
+    "title": "Merge Sorted Array",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Sliding%20Window",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
     "companyTags": [
-      "Google",
-      "Meta",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Microsoft",
+      "Goldman Sachs"
     ],
-    "recognitionHint": "Combines Sliding Window with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Fill backwards from rightmost index or use Shell sort gap method.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -3427,20 +3418,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-201": {
     "id": "p-201",
     "day": 11,
-    "leetcodeNumber": 211,
-    "title": "[Day 11] Binary Search on Answer Pattern Practice #1",
-    "topic": "Trie",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 344,
+    "title": "Reverse String",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search%20on%20Answer",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Microsoft",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Binary Search on Answer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two pointers starting from left and right moving towards center.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3455,20 +3447,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-202": {
     "id": "p-202",
     "day": 11,
-    "leetcodeNumber": 212,
-    "title": "[Day 11] Arrays Pattern Practice #2",
-    "topic": "Dynamic Programming",
+    "leetcodeNumber": 414,
+    "title": "Third Maximum Number",
+    "topic": "Array",
     "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Arrays property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain min and max variables during single pass iteration.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3483,20 +3475,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-203": {
     "id": "p-203",
     "day": 11,
-    "leetcodeNumber": 213,
-    "title": "[Day 11] Strings Pattern Practice #3",
-    "topic": "Bit Manipulation",
-    "pattern": "Strings",
+    "leetcodeNumber": 283,
+    "title": "Move Zeroes",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Strings property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Partition array using two pointers similar to quicksort step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3511,20 +3503,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-204": {
     "id": "p-204",
     "day": 11,
-    "leetcodeNumber": 214,
-    "title": "[Day 11] Hash Map Pattern Practice #4",
+    "leetcodeNumber": 349,
+    "title": "Intersection of Two Arrays",
     "topic": "Array",
-    "pattern": "Hash Map",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Hash%20Map",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Hash Map property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two pointers or Hash Set to collect unique common elements.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3539,21 +3531,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-205": {
     "id": "p-205",
     "day": 11,
-    "leetcodeNumber": 311,
-    "title": "[Day 11] Bit Manipulation Intermediate Challenge #1",
-    "topic": "Bit Manipulation",
-    "pattern": "Tree",
+    "leetcodeNumber": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
     "companyTags": [
-      "Google",
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Binary search over search space [max_elem, sum_elem] with predicate validation function.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3568,21 +3559,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-206": {
     "id": "p-206",
     "day": 11,
-    "leetcodeNumber": 312,
-    "title": "[Day 11] Array Intermediate Challenge #2",
-    "topic": "Array",
-    "pattern": "BST",
+    "leetcodeNumber": 142,
+    "title": "Linked List Cycle II",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply BST state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "After slow & fast meet, reset slow to head; advance both 1 step until they meet again.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3597,21 +3587,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-207": {
     "id": "p-207",
     "day": 11,
-    "leetcodeNumber": 313,
-    "title": "[Day 11] Matrix Intermediate Challenge #3",
-    "topic": "Matrix",
-    "pattern": "Trie",
+    "leetcodeNumber": 1836,
+    "title": "Remove Duplicates From an Unsorted Linked List",
+    "topic": "LinkedList",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/",
     "companyTags": [
-      "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Trie state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Hash Set to store seen node values as you traverse.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3626,21 +3614,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-208": {
     "id": "p-208",
     "day": 11,
-    "leetcodeNumber": 314,
-    "title": "[Day 11] String Intermediate Challenge #4",
-    "topic": "String",
-    "pattern": "Graph",
+    "leetcodeNumber": 369,
+    "title": "Plus One Linked List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/plus-one-linked-list/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
+      "Amazon",
       "Google"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Reverse list, add 1 with carry propagation, then reverse list back.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3655,24 +3642,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-209": {
     "id": "p-209",
     "day": 11,
-    "leetcodeNumber": 611,
-    "title": "[Day 11] Heap Hard OA Question #1",
-    "topic": "String",
-    "pattern": "Heap",
+    "leetcodeNumber": 493,
+    "title": "Reverse Pairs",
+    "topic": "Array",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Meta",
-      "Google",
-      "Amazon"
+      "Goldman Sachs"
     ],
-    "recognitionHint": "Combines Heap with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use modified Merge Sort to count cross-inversions during merge step.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -3685,24 +3671,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-210": {
     "id": "p-210",
     "day": 11,
-    "leetcodeNumber": 612,
-    "title": "[Day 11] Linked List Hard OA Question #2",
-    "topic": "Searching & Sorting",
-    "pattern": "Linked List",
+    "leetcodeNumber": 123,
+    "title": "Best Time to Buy and Sell Stock III",
+    "topic": "Array",
+    "pattern": "DP",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
     "companyTags": [
-      "Adobe",
-      "Atlassian",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Linked List with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain 4 variables: buy1, sell1, buy2, sell2 representing state transactions.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -3715,20 +3699,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-211": {
     "id": "p-211",
     "day": 12,
-    "leetcodeNumber": 221,
-    "title": "[Day 12] Strings Pattern Practice #1",
-    "topic": "Dynamic Programming",
-    "pattern": "Strings",
+    "leetcodeNumber": 189,
+    "title": "Rotate Array",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Strings property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Reverse entire array, then reverse first K and remaining N-K elements.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3743,20 +3727,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-212": {
     "id": "p-212",
     "day": 12,
-    "leetcodeNumber": 222,
-    "title": "[Day 12] Hash Map Pattern Practice #2",
-    "topic": "Bit Manipulation",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Hash%20Map",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
     "companyTags": [
+      "Amazon",
+      "Microsoft",
+      "Google",
       "Meta",
-      "Oracle"
+      "Adobe"
     ],
-    "recognitionHint": "Identify Hash Map property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Track minimum price seen so far and update maximum profit at each step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3771,20 +3758,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-213": {
     "id": "p-213",
     "day": 12,
-    "leetcodeNumber": 223,
-    "title": "[Day 12] Two Pointer Pattern Practice #3",
+    "leetcodeNumber": 1,
+    "title": "Two Sum",
     "topic": "Array",
-    "pattern": "Two Pointer",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "Uber"
     ],
-    "recognitionHint": "Identify Two Pointer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Store complement (K - current) in Hash Map for O(N) lookup.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3799,20 +3789,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-214": {
     "id": "p-214",
     "day": 12,
-    "leetcodeNumber": 224,
-    "title": "[Day 12] Sliding Window Pattern Practice #4",
-    "topic": "Matrix",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 1213,
+    "title": "Intersection of Three Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Sliding%20Window",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-three-sorted-arrays/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Sliding Window property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Advance three pointers simultaneously towards matching values.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -3827,21 +3817,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-215": {
     "id": "p-215",
     "day": 12,
-    "leetcodeNumber": 321,
-    "title": "[Day 12] Array Intermediate Challenge #1",
-    "topic": "Array",
-    "pattern": "Graph",
+    "leetcodeNumber": 2,
+    "title": "Add Two Numbers",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Traverse both lists node by node, computing sum and carry digit.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3856,21 +3847,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-216": {
     "id": "p-216",
     "day": 12,
-    "leetcodeNumber": 322,
-    "title": "[Day 12] Matrix Intermediate Challenge #2",
-    "topic": "Matrix",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 148,
+    "title": "Sort List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
     "companyTags": [
-      "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Backtracking state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Find middle using fast/slow pointers, split list, recursively sort both halves, then merge.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3885,21 +3876,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-217": {
     "id": "p-217",
     "day": 12,
-    "leetcodeNumber": 323,
-    "title": "[Day 12] String Intermediate Challenge #3",
-    "topic": "String",
-    "pattern": "Greedy",
+    "leetcodeNumber": 430,
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
+      "Amazon",
       "Google"
     ],
-    "recognitionHint": "Apply Greedy state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use DFS stack or recursive pointer rearrangement for child lists.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3914,21 +3904,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-218": {
     "id": "p-218",
     "day": 12,
-    "leetcodeNumber": 324,
-    "title": "[Day 12] Searching & Sorting Intermediate Challenge #4",
-    "topic": "Searching & Sorting",
-    "pattern": "DP",
+    "leetcodeNumber": 138,
+    "title": "Copy List with Random Pointer",
+    "topic": "LinkedList",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Interleave cloned nodes next to originals or use Hash Map mapping original -> copy.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -3943,24 +3934,25 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-219": {
     "id": "p-219",
     "day": 12,
-    "leetcodeNumber": 621,
-    "title": "[Day 12] Graph Hard OA Question #1",
-    "topic": "Searching & Sorting",
-    "pattern": "Graph",
+    "leetcodeNumber": 42,
+    "title": "Trapping Rain Water",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
     "companyTags": [
-      "Adobe",
-      "Atlassian",
+      "Amazon",
+      "Microsoft",
       "Google",
-      "Amazon"
+      "Meta",
+      "Goldman Sachs"
     ],
-    "recognitionHint": "Combines Graph with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use two pointers tracking maxLeft and maxRight boundaries.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -3973,24 +3965,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-220": {
     "id": "p-220",
     "day": 12,
-    "leetcodeNumber": 622,
-    "title": "[Day 12] Backtracking Hard OA Question #2",
-    "topic": "LinkedList",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Meta",
-      "Walmart",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Backtracking with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on partition point of smaller array to balance left and right halves.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -4003,20 +3994,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-221": {
     "id": "p-221",
     "day": 13,
-    "leetcodeNumber": 231,
-    "title": "[Day 13] Two Pointer Pattern Practice #1",
-    "topic": "Bit Manipulation",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 350,
+    "title": "Intersection of Two Arrays II",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Two Pointer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use frequency map of parent array and decrement for subset check.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4031,20 +4021,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-222": {
     "id": "p-222",
     "day": 13,
-    "leetcodeNumber": 232,
-    "title": "[Day 13] Sliding Window Pattern Practice #2",
+    "leetcodeNumber": 1051,
+    "title": "Height Checker",
     "topic": "Array",
     "pattern": "Sliding Window",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Sliding%20Window",
+    "leetcodeUrl": "https://leetcode.com/problems/height-checker/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Sliding Window property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Sort array and find minimum difference arr[i + m - 1] - arr[i].",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4059,20 +4048,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-223": {
     "id": "p-223",
     "day": 13,
-    "leetcodeNumber": 233,
-    "title": "[Day 13] Binary Search Pattern Practice #3",
-    "topic": "Matrix",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 2404,
+    "title": "Most Frequent Even Element",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/most-frequent-even-element/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Binary Search property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two pointers from left and right; merge smaller element with adjacent until equal.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4087,20 +4075,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-224": {
     "id": "p-224",
     "day": 13,
-    "leetcodeNumber": 234,
-    "title": "[Day 13] Stack Pattern Practice #4",
+    "leetcodeNumber": 344,
+    "title": "Reverse String",
     "topic": "String",
-    "pattern": "Stack",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Swap s[left] and s[right] while left < right.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4115,21 +4103,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-225": {
     "id": "p-225",
     "day": 13,
-    "leetcodeNumber": 331,
-    "title": "[Day 13] Matrix Intermediate Challenge #1",
-    "topic": "Matrix",
-    "pattern": "DP",
+    "leetcodeNumber": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
     "companyTags": [
+      "Amazon",
+      "Google",
       "Meta",
-      "Goldman Sachs",
       "Microsoft"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "BFS queue processing node count level by level.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4144,21 +4133,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-226": {
     "id": "p-226",
     "day": 13,
-    "leetcodeNumber": 332,
-    "title": "[Day 13] String Intermediate Challenge #2",
-    "topic": "String",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 199,
+    "title": "Binary Tree Right Side View",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Bit Manipulation state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "DFS right child first; record first node encountered per depth.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4173,21 +4162,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-227": {
     "id": "p-227",
     "day": 13,
-    "leetcodeNumber": 333,
-    "title": "[Day 13] Searching & Sorting Intermediate Challenge #3",
-    "topic": "Searching & Sorting",
-    "pattern": "Math",
+    "leetcodeNumber": 103,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Google",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Math state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "BFS level order with a flag to reverse alternate level lists.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4202,21 +4191,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-228": {
     "id": "p-228",
     "day": 13,
-    "leetcodeNumber": 334,
-    "title": "[Day 13] LinkedList Intermediate Challenge #4",
-    "topic": "LinkedList",
-    "pattern": "Matrix",
+    "leetcodeNumber": 236,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "If left and right DFS calls both return non-null, current node is LCA.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4231,24 +4221,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-229": {
     "id": "p-229",
     "day": 13,
-    "leetcodeNumber": 631,
-    "title": "[Day 13] Math Hard OA Question #1",
-    "topic": "LinkedList",
-    "pattern": "Math",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Math",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Meta",
-      "Walmart",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Math with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Partition smaller array X such that left half count equals right half count.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -4261,24 +4251,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-230": {
     "id": "p-230",
     "day": 13,
-    "leetcodeNumber": 632,
-    "title": "[Day 13] Matrix Hard OA Question #2",
-    "topic": "Binary Trees",
-    "pattern": "Matrix",
+    "leetcodeNumber": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "topic": "Matrix",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     "companyTags": [
-      "Atlassian",
-      "Oracle",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Matrix with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search over value range [min, max] and count elements <= mid across rows.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -4291,20 +4279,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-231": {
     "id": "p-231",
     "day": 14,
-    "leetcodeNumber": 241,
-    "title": "[Day 14] Binary Search Pattern Practice #1",
-    "topic": "Array",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 125,
+    "title": "Valid Palindrome",
+    "topic": "String",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Binary Search property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Filter non-alphanumeric chars and compare two pointers from ends.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4319,20 +4307,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-232": {
     "id": "p-232",
     "day": 14,
-    "leetcodeNumber": 242,
-    "title": "[Day 14] Stack Pattern Practice #2",
-    "topic": "Matrix",
-    "pattern": "Stack",
+    "leetcodeNumber": 387,
+    "title": "First Unique Character in a String",
+    "topic": "String",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Count character occurrences using frequency map or 26-element array.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4347,20 +4335,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-233": {
     "id": "p-233",
     "day": 14,
-    "leetcodeNumber": 243,
-    "title": "[Day 14] Queue Pattern Practice #3",
+    "leetcodeNumber": 796,
+    "title": "Rotate String",
     "topic": "String",
-    "pattern": "Queue",
+    "pattern": "Strings",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Queue property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Check if s2 is a substring of (s1 + s1) of equal lengths.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4375,20 +4363,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-234": {
     "id": "p-234",
     "day": 14,
-    "leetcodeNumber": 244,
-    "title": "[Day 14] Heap Pattern Practice #4",
-    "topic": "Searching & Sorting",
-    "pattern": "Heap",
+    "leetcodeNumber": 1221,
+    "title": "Split a String in Balanced Strings",
+    "topic": "String",
+    "pattern": "Greedy",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/split-a-string-in-balanced-strings/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Heap property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain counter (+1 for 0, -1 for 1); count when score hits 0.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4403,21 +4390,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-235": {
     "id": "p-235",
     "day": 14,
-    "leetcodeNumber": 341,
-    "title": "[Day 14] String Intermediate Challenge #1",
-    "topic": "String",
-    "pattern": "Matrix",
+    "leetcodeNumber": 105,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "First element of preorder is root; find index in inorder map to partition left/right subtrees.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4432,21 +4419,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-236": {
     "id": "p-236",
     "day": 14,
-    "leetcodeNumber": 342,
-    "title": "[Day 14] Searching & Sorting Intermediate Challenge #2",
-    "topic": "Searching & Sorting",
-    "pattern": "Union Find",
+    "leetcodeNumber": 450,
+    "title": "Delete Node in a BST",
+    "topic": "BST",
+    "pattern": "BST",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Google"
     ],
-    "recognitionHint": "Apply Union Find state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "If node has two children, replace val with inorder successor (min in right subtree) and delete successor.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4461,21 +4447,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-237": {
     "id": "p-237",
     "day": 14,
-    "leetcodeNumber": 343,
-    "title": "[Day 14] LinkedList Intermediate Challenge #3",
-    "topic": "LinkedList",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 98,
+    "title": "Validate Binary Search Tree",
+    "topic": "BST",
+    "pattern": "BST",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Topological Sort state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Pass lower and upper value bounds down recursion tree.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4490,21 +4477,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-238": {
     "id": "p-238",
     "day": 14,
-    "leetcodeNumber": 344,
-    "title": "[Day 14] Binary Trees Intermediate Challenge #4",
-    "topic": "Binary Trees",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 235,
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "topic": "BST",
+    "pattern": "BST",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
     "companyTags": [
-      "Goldman Sachs",
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Monotonic Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "If p and q are both smaller than root, go left; if both larger, go right; else root is LCA.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4519,24 +4505,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-239": {
     "id": "p-239",
     "day": 14,
-    "leetcodeNumber": 641,
-    "title": "[Day 14] Binary Search on Answer Hard OA Question #1",
-    "topic": "Binary Trees",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 85,
+    "title": "Maximal Rectangle",
+    "topic": "Matrix",
+    "pattern": "Monotonic Stack",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search%20on%20Answer",
+    "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
     "companyTags": [
-      "Atlassian",
-      "Oracle",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Binary Search on Answer with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Convert each matrix row into a histogram and apply Largest Rectangle in Histogram algorithm.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -4549,24 +4534,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-240": {
     "id": "p-240",
     "day": 14,
-    "leetcodeNumber": 642,
-    "title": "[Day 14] Arrays Hard OA Question #2",
-    "topic": "BST",
-    "pattern": "Arrays",
+    "leetcodeNumber": 68,
+    "title": "Text Justification",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
     "companyTags": [
-      "Walmart",
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Uber"
     ],
-    "recognitionHint": "Combines Arrays with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "DP state tracking minimum cost/line cost up to index i.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -4579,20 +4563,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-241": {
     "id": "p-241",
     "day": 15,
-    "leetcodeNumber": 251,
-    "title": "[Day 15] Queue Pattern Practice #1",
-    "topic": "Matrix",
-    "pattern": "Queue",
+    "leetcodeNumber": 20,
+    "title": "Valid Parentheses",
+    "topic": "String",
+    "pattern": "Stack",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Queue property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Push opening brackets onto stack; pop and verify match for closing brackets.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4607,20 +4594,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-242": {
     "id": "p-242",
     "day": 15,
-    "leetcodeNumber": 252,
-    "title": "[Day 15] Heap Pattern Practice #2",
+    "leetcodeNumber": 14,
+    "title": "Longest Common Prefix",
     "topic": "String",
-    "pattern": "Heap",
+    "pattern": "Strings",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Heap property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Compare horizontal characters across all strings until mismatch.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4635,20 +4623,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-243": {
     "id": "p-243",
     "day": 15,
-    "leetcodeNumber": 253,
-    "title": "[Day 15] Linked List Pattern Practice #3",
-    "topic": "Searching & Sorting",
-    "pattern": "Linked List",
+    "leetcodeNumber": 205,
+    "title": "Isomorphic Strings",
+    "topic": "String",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Linked List property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain bi-directional character mapping dictionaries.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4663,20 +4651,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-244": {
     "id": "p-244",
     "day": 15,
-    "leetcodeNumber": 254,
-    "title": "[Day 15] Tree Pattern Practice #4",
-    "topic": "LinkedList",
-    "pattern": "Tree",
+    "leetcodeNumber": 69,
+    "title": "Sqrt(x)",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
     "companyTags": [
-      "Uber",
+      "Amazon",
       "Google"
     ],
-    "recognitionHint": "Identify Tree property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Binary search on integer range [1, X] checking mid * mid <= X.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4691,21 +4679,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-245": {
     "id": "p-245",
     "day": 15,
-    "leetcodeNumber": 351,
-    "title": "[Day 15] Searching & Sorting Intermediate Challenge #1",
-    "topic": "Searching & Sorting",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 230,
+    "title": "Kth Smallest Element in a BST",
+    "topic": "BST",
+    "pattern": "BST",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Monotonic Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Inorder traversal visits BST nodes in sorted order; return Kth visited node.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4720,21 +4708,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-246": {
     "id": "p-246",
     "day": 15,
-    "leetcodeNumber": 352,
-    "title": "[Day 15] LinkedList Intermediate Challenge #2",
-    "topic": "LinkedList",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 503,
+    "title": "Next Greater Element II",
+    "topic": "Stacks & Queues",
+    "pattern": "Monotonic Stack",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-ii/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Binary Search on Answer state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Traverse array with monotonic decreasing stack storing indices.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4749,21 +4736,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-247": {
     "id": "p-247",
     "day": 15,
-    "leetcodeNumber": 353,
-    "title": "[Day 15] Binary Trees Intermediate Challenge #3",
-    "topic": "Binary Trees",
-    "pattern": "Arrays",
+    "leetcodeNumber": 277,
+    "title": "Find the Celebrity",
+    "topic": "Stacks & Queues",
+    "pattern": "Stack",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-celebrity/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Meta"
     ],
-    "recognitionHint": "Apply Arrays state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use elimination with 2 pointers or stack to find candidate celebrity, then verify in second pass.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4778,21 +4765,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-248": {
     "id": "p-248",
     "day": 15,
-    "leetcodeNumber": 354,
-    "title": "[Day 15] BST Intermediate Challenge #4",
-    "topic": "BST",
-    "pattern": "Strings",
+    "leetcodeNumber": 146,
+    "title": "LRU Cache",
+    "topic": "Stacks & Queues",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Strings state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Combine Doubly Linked List for O(1) order updates with Hash Map for O(1) key node lookups.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -4807,24 +4795,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-249": {
     "id": "p-249",
     "day": 15,
-    "leetcodeNumber": 651,
-    "title": "[Day 15] Sliding Window Hard OA Question #1",
-    "topic": "BST",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Sliding%20Window",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
     "companyTags": [
-      "Walmart",
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Sliding Window with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Build Longest Prefix Suffix (LPS) array to skip redundant comparisons.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -4837,24 +4824,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-250": {
     "id": "p-250",
     "day": 15,
-    "leetcodeNumber": 652,
-    "title": "[Day 15] Binary Search Hard OA Question #2",
-    "topic": "Greedy",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 76,
+    "title": "Minimum Window Substring",
+    "topic": "String",
+    "pattern": "Sliding Window",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
     "companyTags": [
-      "Oracle",
-      "Uber",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Uber"
     ],
-    "recognitionHint": "Combines Binary Search with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Track unique char counts; expand right to fulfill requirement, contract left to minimize.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -4867,20 +4854,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-251": {
     "id": "p-251",
     "day": 16,
-    "leetcodeNumber": 261,
-    "title": "[Day 16] Linked List Pattern Practice #1",
-    "topic": "String",
-    "pattern": "Linked List",
+    "leetcodeNumber": 169,
+    "title": "Majority Element",
+    "topic": "Searching & Sorting",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Linked List property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Boyer-Moore Voting Algorithm: maintain count and increment/decrement based on match.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4895,20 +4884,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-252": {
     "id": "p-252",
     "day": 16,
-    "leetcodeNumber": 262,
-    "title": "[Day 16] Tree Pattern Practice #2",
-    "topic": "Searching & Sorting",
-    "pattern": "Tree",
+    "leetcodeNumber": 206,
+    "title": "Reverse Linked List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Tree property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Iteratively update prev, curr, and next pointers.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4923,20 +4915,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-253": {
     "id": "p-253",
     "day": 16,
-    "leetcodeNumber": 263,
-    "title": "[Day 16] BST Pattern Practice #3",
+    "leetcodeNumber": 141,
+    "title": "Linked List Cycle",
     "topic": "LinkedList",
-    "pattern": "BST",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify BST property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Floyd's Cycle Finding algorithm: fast pointer moves 2 steps, slow 1 step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4951,20 +4944,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-254": {
     "id": "p-254",
     "day": 16,
-    "leetcodeNumber": 264,
-    "title": "[Day 16] Trie Pattern Practice #4",
-    "topic": "Binary Trees",
-    "pattern": "Trie",
+    "leetcodeNumber": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
     "companyTags": [
       "Amazon",
       "Adobe"
     ],
-    "recognitionHint": "Identify Trie property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "If curr.val == curr.next.val, skip next node: curr.next = curr.next.next.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -4979,21 +4972,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-255": {
     "id": "p-255",
     "day": 16,
-    "leetcodeNumber": 361,
-    "title": "[Day 16] LinkedList Intermediate Challenge #1",
-    "topic": "LinkedList",
-    "pattern": "Strings",
+    "leetcodeNumber": 994,
+    "title": "Rotting Oranges",
+    "topic": "Stacks & Queues",
+    "pattern": "Graph",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Strings state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Multi-source BFS queue starting with all initial rotten orange coordinates.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5008,21 +5000,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-256": {
     "id": "p-256",
     "day": 16,
-    "leetcodeNumber": 362,
-    "title": "[Day 16] Binary Trees Intermediate Challenge #2",
-    "topic": "Binary Trees",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 200,
+    "title": "Number of Islands",
+    "topic": "Graph",
+    "pattern": "Graph",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Hash Map state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "BFS/DFS grid traversal sinking visited land '1's to '0's.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5037,21 +5030,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-257": {
     "id": "p-257",
     "day": 16,
-    "leetcodeNumber": 363,
-    "title": "[Day 16] BST Intermediate Challenge #3",
-    "topic": "BST",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 133,
+    "title": "Clone Graph",
+    "topic": "Graph",
+    "pattern": "Graph",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/clone-graph/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Two Pointer state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Hash Map storing original -> clone node mapping during DFS/BFS traversal.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5066,21 +5059,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-258": {
     "id": "p-258",
     "day": 16,
-    "leetcodeNumber": 364,
-    "title": "[Day 16] Greedy Intermediate Challenge #4",
-    "topic": "Greedy",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 207,
+    "title": "Course Schedule",
+    "topic": "Graph",
+    "pattern": "Topological Sort",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
     "companyTags": [
       "Amazon",
-      "Meta",
-      "Oracle"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Sliding Window state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Kahn's algorithm (indegree array + queue) or DFS state array (unvisited, visiting, visited).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5095,24 +5088,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-259": {
     "id": "p-259",
     "day": 16,
-    "leetcodeNumber": 661,
-    "title": "[Day 16] Linked List Hard OA Question #1",
-    "topic": "Greedy",
-    "pattern": "Linked List",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Oracle",
-      "Uber",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Linked List with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on partition size of smaller array ensuring K elements total on left.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -5125,24 +5116,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-260": {
     "id": "p-260",
     "day": 16,
-    "leetcodeNumber": 662,
-    "title": "[Day 16] Tree Hard OA Question #2",
-    "topic": "Backtracking",
-    "pattern": "Tree",
+    "leetcodeNumber": 410,
+    "title": "Split Array Largest Sum",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
     "companyTags": [
-      "Goldman Sachs",
       "Amazon",
       "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Tree with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on maximum allowed page sum per student.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -5155,20 +5145,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-261": {
     "id": "p-261",
     "day": 17,
-    "leetcodeNumber": 271,
-    "title": "[Day 17] BST Pattern Practice #1",
-    "topic": "Searching & Sorting",
-    "pattern": "BST",
+    "leetcodeNumber": 160,
+    "title": "Intersection of Two Linked Lists",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
+      "Google",
       "Microsoft"
     ],
-    "recognitionHint": "Identify BST property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Switch pointers pA to headB and pB to headA when reaching null; they meet at intersection.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5183,20 +5174,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-262": {
     "id": "p-262",
     "day": 17,
-    "leetcodeNumber": 272,
-    "title": "[Day 17] Trie Pattern Practice #2",
+    "leetcodeNumber": 876,
+    "title": "Middle of the Linked List",
     "topic": "LinkedList",
-    "pattern": "Trie",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
     "companyTags": [
-      "Uber",
+      "Amazon",
       "Google"
     ],
-    "recognitionHint": "Identify Trie property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Slow moves 1 step while fast moves 2 steps; slow lands at middle node.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5211,20 +5202,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-263": {
     "id": "p-263",
     "day": 17,
-    "leetcodeNumber": 273,
-    "title": "[Day 17] Graph Pattern Practice #3",
-    "topic": "Binary Trees",
-    "pattern": "Graph",
+    "leetcodeNumber": 234,
+    "title": "Palindrome Linked List",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Graph property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Find middle, reverse second half, and compare values with first half.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5239,20 +5231,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-264": {
     "id": "p-264",
     "day": 17,
-    "leetcodeNumber": 274,
-    "title": "[Day 17] Backtracking Pattern Practice #4",
-    "topic": "BST",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 86,
+    "title": "Partition List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Backtracking property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain three dummy heads for 0, 1, and 2 lists and append nodes.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5267,21 +5258,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-265": {
     "id": "p-265",
     "day": 17,
-    "leetcodeNumber": 371,
-    "title": "[Day 17] Binary Trees Intermediate Challenge #1",
-    "topic": "Binary Trees",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 743,
+    "title": "Network Delay Time",
+    "topic": "Graph",
+    "pattern": "Graph",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
     "companyTags": [
-      "Goldman Sachs",
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Sliding Window state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Min-Priority Queue storing (distance, node) to greedily relax edges.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5296,21 +5286,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-266": {
     "id": "p-266",
     "day": 17,
-    "leetcodeNumber": 372,
-    "title": "[Day 17] BST Intermediate Challenge #2",
-    "topic": "BST",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 743,
+    "title": "Network Delay Time",
+    "topic": "Graph",
+    "pattern": "Graph",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Binary Search state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Dijkstra algorithm: return max distance among all reached nodes.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5325,21 +5314,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-267": {
     "id": "p-267",
     "day": 17,
-    "leetcodeNumber": 373,
-    "title": "[Day 17] Greedy Intermediate Challenge #3",
-    "topic": "Greedy",
-    "pattern": "Stack",
+    "leetcodeNumber": 322,
+    "title": "Coin Change",
+    "topic": "Dynamic Programming",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
     "companyTags": [
       "Amazon",
-      "Meta",
-      "Oracle"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Unbounded Knapsack: dp[amount] = min(dp[amount], 1 + dp[amount - coin]).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5354,21 +5343,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-268": {
     "id": "p-268",
     "day": 17,
-    "leetcodeNumber": 374,
-    "title": "[Day 17] Backtracking Intermediate Challenge #4",
-    "topic": "Backtracking",
-    "pattern": "Queue",
+    "leetcodeNumber": 416,
+    "title": "Partition Equal Subset Sum",
+    "topic": "Dynamic Programming",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "dp[w] = max(dp[w], weight + dp[w - weight]); iterate capacity right-to-left.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5383,24 +5371,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-269": {
     "id": "p-269",
     "day": 17,
-    "leetcodeNumber": 671,
-    "title": "[Day 17] Backtracking Hard OA Question #1",
-    "topic": "Backtracking",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 410,
+    "title": "Split Array Largest Sum",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
     "companyTags": [
-      "Goldman Sachs",
       "Amazon",
-      "Google",
-      "Amazon"
+      "Google"
     ],
-    "recognitionHint": "Combines Backtracking with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Same as Book Allocation: binary search max length per painter.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -5413,24 +5399,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-270": {
     "id": "p-270",
     "day": 17,
-    "leetcodeNumber": 672,
-    "title": "[Day 17] Greedy Hard OA Question #2",
-    "topic": "Stacks & Queues",
-    "pattern": "Greedy",
+    "leetcodeNumber": 25,
+    "title": "Reverse Nodes in k-Group",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
     "companyTags": [
-      "Uber",
-      "Microsoft",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Greedy with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Count node group size; reverse K nodes iteratively and link to next recursed group.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -5443,20 +5428,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-271": {
     "id": "p-271",
     "day": 18,
-    "leetcodeNumber": 281,
-    "title": "[Day 18] Graph Pattern Practice #1",
+    "leetcodeNumber": 19,
+    "title": "Remove Nth Node From End of List",
     "topic": "LinkedList",
-    "pattern": "Graph",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Graph property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Advance fast pointer N steps ahead, then move both fast and slow until fast hits end.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5471,20 +5457,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-272": {
     "id": "p-272",
     "day": 18,
-    "leetcodeNumber": 282,
-    "title": "[Day 18] Backtracking Pattern Practice #2",
+    "leetcodeNumber": 104,
+    "title": "Maximum Depth of Binary Tree",
     "topic": "Binary Trees",
-    "pattern": "Backtracking",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Backtracking property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "1 + max(maxDepth(root.left), maxDepth(root.right)).",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5499,20 +5486,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-273": {
     "id": "p-273",
     "day": 18,
-    "leetcodeNumber": 283,
-    "title": "[Day 18] Greedy Pattern Practice #3",
-    "topic": "BST",
-    "pattern": "Greedy",
+    "leetcodeNumber": 543,
+    "title": "Diameter of Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Greedy property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Track max(left_height + right_height) at each node during DFS depth recursion.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5527,20 +5516,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-274": {
     "id": "p-274",
     "day": 18,
-    "leetcodeNumber": 284,
-    "title": "[Day 18] DP Pattern Practice #4",
-    "topic": "Greedy",
-    "pattern": "DP",
+    "leetcodeNumber": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify DP property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Left -> Root -> Right using explicit stack for iterative approach.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5555,21 +5544,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-275": {
     "id": "p-275",
     "day": 18,
-    "leetcodeNumber": 381,
-    "title": "[Day 18] BST Intermediate Challenge #1",
-    "topic": "BST",
-    "pattern": "Queue",
+    "leetcodeNumber": 300,
+    "title": "Longest Increasing Subsequence",
+    "topic": "Dynamic Programming",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Maintain tails array with binary search (Patience Sorting) in O(N log N).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5584,21 +5573,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-276": {
     "id": "p-276",
     "day": 18,
-    "leetcodeNumber": 382,
-    "title": "[Day 18] Greedy Intermediate Challenge #2",
-    "topic": "Greedy",
-    "pattern": "Heap",
+    "leetcodeNumber": 416,
+    "title": "Partition Equal Subset Sum",
+    "topic": "Dynamic Programming",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
     "companyTags": [
       "Amazon",
-      "Meta",
-      "Oracle"
+      "Google"
     ],
-    "recognitionHint": "Apply Heap state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Subset sum DP target = total_sum / 2.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5613,21 +5601,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-277": {
     "id": "p-277",
     "day": 18,
-    "leetcodeNumber": 383,
-    "title": "[Day 18] Backtracking Intermediate Challenge #3",
-    "topic": "Backtracking",
-    "pattern": "Linked List",
+    "leetcodeNumber": 647,
+    "title": "Palindromic Substrings",
+    "topic": "Dynamic Programming",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Linked List state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Expand around center for all N + N-1 possible middle centers.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5642,21 +5629,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-278": {
     "id": "p-278",
     "day": 18,
-    "leetcodeNumber": 384,
-    "title": "[Day 18] Stacks & Queues Intermediate Challenge #4",
-    "topic": "Stacks & Queues",
-    "pattern": "Tree",
+    "leetcodeNumber": 78,
+    "title": "Subsets",
+    "topic": "Backtracking",
+    "pattern": "Backtracking",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/subsets/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Walmart",
-      "Uber"
+      "Meta"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Include/exclude decision tree or bitmask iteration.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5671,24 +5658,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-279": {
     "id": "p-279",
     "day": 18,
-    "leetcodeNumber": 681,
-    "title": "[Day 18] Matrix Hard OA Question #1",
-    "topic": "Stacks & Queues",
-    "pattern": "Matrix",
+    "leetcodeNumber": 23,
+    "title": "Merge k Sorted Lists",
+    "topic": "LinkedList",
+    "pattern": "Heap",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
     "companyTags": [
-      "Uber",
-      "Microsoft",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Matrix with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use Min-Heap of list head nodes to pick smallest element in O(log K).",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -5701,24 +5688,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-280": {
     "id": "p-280",
     "day": 18,
-    "leetcodeNumber": 682,
-    "title": "[Day 18] Union Find Hard OA Question #2",
-    "topic": "Heap",
-    "pattern": "Union Find",
+    "leetcodeNumber": 84,
+    "title": "Largest Rectangle in Histogram",
+    "topic": "Stacks & Queues",
+    "pattern": "Monotonic Stack",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Union%20Find",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
     "companyTags": [
       "Amazon",
       "Google",
-      "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Union Find with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain monotonic increasing stack of bar indices to find left/right boundary limits.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -5731,20 +5717,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-281": {
     "id": "p-281",
     "day": 19,
-    "leetcodeNumber": 291,
-    "title": "[Day 19] Greedy Pattern Practice #1",
+    "leetcodeNumber": 144,
+    "title": "Binary Tree Preorder Traversal",
     "topic": "Binary Trees",
-    "pattern": "Greedy",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google"
     ],
-    "recognitionHint": "Identify Greedy property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Root -> Left -> Right using explicit stack for iterative approach.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5759,20 +5745,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-282": {
     "id": "p-282",
     "day": 19,
-    "leetcodeNumber": 292,
-    "title": "[Day 19] DP Pattern Practice #2",
-    "topic": "BST",
-    "pattern": "DP",
+    "leetcodeNumber": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon"
     ],
-    "recognitionHint": "Identify DP property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Left -> Right -> Root using two stacks or single stack with prev pointer.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5787,20 +5772,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-283": {
     "id": "p-283",
     "day": 19,
-    "leetcodeNumber": 293,
-    "title": "[Day 19] Bit Manipulation Pattern Practice #3",
-    "topic": "Greedy",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 199,
+    "title": "Binary Tree Right Side View",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Bit Manipulation property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "BFS/DFS tracking first node visited at each depth level.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5815,20 +5799,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-284": {
     "id": "p-284",
     "day": 19,
-    "leetcodeNumber": 294,
-    "title": "[Day 19] Math Pattern Practice #4",
-    "topic": "Backtracking",
-    "pattern": "Math",
+    "leetcodeNumber": 110,
+    "title": "Balanced Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Math",
+    "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Math property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Return -1 early if abs(left_height - right_height) > 1.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -5843,21 +5827,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-285": {
     "id": "p-285",
     "day": 19,
-    "leetcodeNumber": 391,
-    "title": "[Day 19] Greedy Intermediate Challenge #1",
-    "topic": "Greedy",
-    "pattern": "Tree",
+    "leetcodeNumber": 46,
+    "title": "Permutations",
+    "topic": "Backtracking",
+    "pattern": "Backtracking",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/permutations/",
     "companyTags": [
       "Amazon",
-      "Meta",
-      "Oracle"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Backtracking swapping array elements at depth index.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5872,21 +5856,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-286": {
     "id": "p-286",
     "day": 19,
-    "leetcodeNumber": 392,
-    "title": "[Day 19] Backtracking Intermediate Challenge #2",
-    "topic": "Backtracking",
-    "pattern": "BST",
+    "leetcodeNumber": 435,
+    "title": "Non-overlapping Intervals",
+    "topic": "Greedy",
+    "pattern": "Greedy",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/non-overlapping-intervals/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply BST state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort by end time; keep intervals with earlier end times.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5901,21 +5884,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-287": {
     "id": "p-287",
     "day": 19,
-    "leetcodeNumber": 393,
-    "title": "[Day 19] Stacks & Queues Intermediate Challenge #3",
-    "topic": "Stacks & Queues",
-    "pattern": "Trie",
+    "leetcodeNumber": 215,
+    "title": "Kth Largest Element in an Array",
+    "topic": "Array",
+    "pattern": "Heap",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
     "companyTags": [
-      "Google",
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Meta",
+      "Google"
     ],
-    "recognitionHint": "Apply Trie state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Min-Heap of size K to find Kth largest in O(N log K).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5930,21 +5913,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-288": {
     "id": "p-288",
     "day": 19,
-    "leetcodeNumber": 394,
-    "title": "[Day 19] Heap Intermediate Challenge #4",
-    "topic": "Heap",
-    "pattern": "Graph",
+    "leetcodeNumber": 75,
+    "title": "Sort Colors",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
     "companyTags": [
+      "Amazon",
+      "Microsoft",
       "Adobe",
-      "Oracle",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use 3 pointers: low, mid, and high for 3-way partitioning.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -5959,24 +5943,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-289": {
     "id": "p-289",
     "day": 19,
-    "leetcodeNumber": 691,
-    "title": "[Day 19] Arrays Hard OA Question #1",
-    "topic": "Heap",
-    "pattern": "Arrays",
+    "leetcodeNumber": 239,
+    "title": "Sliding Window Maximum",
+    "topic": "Stacks & Queues",
+    "pattern": "Sliding Window",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
     "companyTags": [
       "Amazon",
       "Google",
-      "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Arrays with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain monotonic decreasing Deque storing indices of current window elements.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -5989,24 +5972,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-290": {
     "id": "p-290",
     "day": 19,
-    "leetcodeNumber": 692,
-    "title": "[Day 19] Strings Hard OA Question #2",
+    "leetcodeNumber": 127,
+    "title": "Word Ladder",
     "topic": "Graph",
-    "pattern": "Strings",
+    "pattern": "Graph",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
     "companyTags": [
-      "Microsoft",
-      "Adobe",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Strings with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "BFS level search mutating 1 char per position matching word set.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -6019,20 +6001,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-291": {
     "id": "p-291",
     "day": 20,
-    "leetcodeNumber": 301,
-    "title": "[Day 20] Bit Manipulation Pattern Practice #1",
+    "leetcodeNumber": 700,
+    "title": "Search in a Binary Search Tree",
     "topic": "BST",
-    "pattern": "Bit Manipulation",
+    "pattern": "BST",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Bit Manipulation property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Go left if target < val, right if target > val.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6047,20 +6029,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-292": {
     "id": "p-292",
     "day": 20,
-    "leetcodeNumber": 302,
-    "title": "[Day 20] Math Pattern Practice #2",
-    "topic": "Greedy",
-    "pattern": "Math",
+    "leetcodeNumber": 108,
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "topic": "BST",
+    "pattern": "BST",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Math",
+    "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Math property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Pick middle element as root and recursively build left and right subtrees.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6075,20 +6057,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-293": {
     "id": "p-293",
     "day": 20,
-    "leetcodeNumber": 303,
-    "title": "[Day 20] Matrix Pattern Practice #3",
-    "topic": "Backtracking",
-    "pattern": "Matrix",
+    "leetcodeNumber": 225,
+    "title": "Implement Stack using Queues",
+    "topic": "Stacks & Queues",
+    "pattern": "Stack",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Matrix property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Rotate queue elements on push so latest element stays at front.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6103,20 +6084,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-294": {
     "id": "p-294",
     "day": 20,
-    "leetcodeNumber": 304,
-    "title": "[Day 20] Union Find Pattern Practice #4",
+    "leetcodeNumber": 232,
+    "title": "Implement Queue using Stacks",
     "topic": "Stacks & Queues",
-    "pattern": "Union Find",
+    "pattern": "Queue",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Union%20Find",
+    "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Union Find property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two stacks (inputStack and outputStack); transfer only when outputStack is empty.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6131,21 +6112,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-295": {
     "id": "p-295",
     "day": 20,
-    "leetcodeNumber": 401,
-    "title": "[Day 20] Backtracking Intermediate Challenge #1",
-    "topic": "Backtracking",
-    "pattern": "Graph",
+    "leetcodeNumber": 53,
+    "title": "Maximum Subarray",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
     "companyTags": [
+      "Amazon",
       "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Maintain current max sum; if current sum drops below 0, reset to 0.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6160,21 +6143,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-296": {
     "id": "p-296",
     "day": 20,
-    "leetcodeNumber": 402,
-    "title": "[Day 20] Stacks & Queues Intermediate Challenge #2",
-    "topic": "Stacks & Queues",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 910,
+    "title": "Smallest Range II",
+    "topic": "Array",
+    "pattern": "Greedy",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/smallest-range-ii/",
     "companyTags": [
-      "Google",
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Adobe"
     ],
-    "recognitionHint": "Apply Backtracking state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort array and consider split points where smaller elements increase and larger decrease.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6189,21 +6171,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-297": {
     "id": "p-297",
     "day": 20,
-    "leetcodeNumber": 403,
-    "title": "[Day 20] Heap Intermediate Challenge #3",
-    "topic": "Heap",
+    "leetcodeNumber": 45,
+    "title": "Jump Game II",
+    "topic": "Array",
     "pattern": "Greedy",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Walmart"
     ],
-    "recognitionHint": "Apply Greedy state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Greedily track farthest reachable index within current jump range.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6218,21 +6201,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-298": {
     "id": "p-298",
     "day": 20,
-    "leetcodeNumber": 404,
-    "title": "[Day 20] Graph Intermediate Challenge #4",
-    "topic": "Graph",
-    "pattern": "DP",
+    "leetcodeNumber": 287,
+    "title": "Find the Duplicate Number",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
     "companyTags": [
-      "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Microsoft",
+      "Google"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Treat array values as pointers and apply Floyd's Cycle Detection (fast/slow).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6247,24 +6230,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-299": {
     "id": "p-299",
     "day": 20,
-    "leetcodeNumber": 701,
-    "title": "[Day 20] Binary Search Hard OA Question #1",
-    "topic": "Graph",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 51,
+    "title": "N-Queens",
+    "topic": "Backtracking",
+    "pattern": "Backtracking",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
     "companyTags": [
-      "Microsoft",
-      "Adobe",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Binary Search with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Track occupied columns, main diagonals (r - c), and anti-diagonals (r + c).",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -6277,24 +6258,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-300": {
     "id": "p-300",
     "day": 20,
-    "leetcodeNumber": 702,
-    "title": "[Day 20] Stack Hard OA Question #2",
-    "topic": "Trie",
-    "pattern": "Stack",
+    "leetcodeNumber": 37,
+    "title": "Sudoku Solver",
+    "topic": "Backtracking",
+    "pattern": "Backtracking",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/sudoku-solver/",
     "companyTags": [
-      "Google",
-      "Meta",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Stack with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Backtrack try digits '1'-'9' checking row, col, and 3x3 block validity.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -6307,20 +6286,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-301": {
     "id": "p-301",
     "day": 21,
-    "leetcodeNumber": 311,
-    "title": "[Day 21] Matrix Pattern Practice #1",
-    "topic": "Greedy",
-    "pattern": "Matrix",
+    "leetcodeNumber": 70,
+    "title": "Climbing Stairs",
+    "topic": "Dynamic Programming",
+    "pattern": "DP",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Adobe"
     ],
-    "recognitionHint": "Identify Matrix property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "dp[n] = dp[n-1] + dp[n-2] Fibonacci sequence.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6335,20 +6315,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-302": {
     "id": "p-302",
     "day": 21,
-    "leetcodeNumber": 312,
-    "title": "[Day 21] Union Find Pattern Practice #2",
-    "topic": "Backtracking",
-    "pattern": "Union Find",
+    "leetcodeNumber": 136,
+    "title": "Single Number",
+    "topic": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Union%20Find",
+    "leetcodeUrl": "https://leetcode.com/problems/single-number/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Union Find property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "XOR all elements together; duplicates cancel out leaving single number.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6363,20 +6344,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-303": {
     "id": "p-303",
     "day": 21,
-    "leetcodeNumber": 313,
-    "title": "[Day 21] Topological Sort Pattern Practice #3",
-    "topic": "Stacks & Queues",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 191,
+    "title": "Number of 1 Bits",
+    "topic": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Topological%20Sort",
+    "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Topological Sort property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "n & (n - 1) clears lowest set bit in each iteration.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6391,20 +6372,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-304": {
     "id": "p-304",
     "day": 21,
-    "leetcodeNumber": 314,
-    "title": "[Day 21] Monotonic Stack Pattern Practice #4",
-    "topic": "Heap",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 338,
+    "title": "Counting Bits",
+    "topic": "Bit Manipulation",
+    "pattern": "Bit Manipulation",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Monotonic%20Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Monotonic Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "dp[i] = dp[i >> 1] + (i & 1).",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6419,21 +6400,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-305": {
     "id": "p-305",
     "day": 21,
-    "leetcodeNumber": 411,
-    "title": "[Day 21] Stacks & Queues Intermediate Challenge #1",
-    "topic": "Stacks & Queues",
-    "pattern": "DP",
+    "leetcodeNumber": 56,
+    "title": "Merge Intervals",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stacks%20%26%20Queues",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
     "companyTags": [
+      "Amazon",
+      "Microsoft",
       "Google",
-      "Walmart",
+      "Meta",
       "Uber"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort intervals by start time; merge adjacent intervals if start <= prev end.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6448,21 +6431,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-306": {
     "id": "p-306",
     "day": 21,
-    "leetcodeNumber": 412,
-    "title": "[Day 21] Heap Intermediate Challenge #2",
-    "topic": "Heap",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 31,
+    "title": "Next Permutation",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Apply Bit Manipulation state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Find rightmost non-increasing pivot, swap with next greater, reverse suffix.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6477,21 +6461,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-307": {
     "id": "p-307",
     "day": 21,
-    "leetcodeNumber": 413,
-    "title": "[Day 21] Graph Intermediate Challenge #3",
-    "topic": "Graph",
-    "pattern": "Math",
+    "leetcodeNumber": 2149,
+    "title": "Rearrange Array Elements by Sign",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
     "companyTags": [
-      "Meta",
-      "Goldman Sachs",
+      "Amazon",
       "Microsoft"
     ],
-    "recognitionHint": "Apply Math state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use positive and negative index pointers to place elements in alternating slots.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6506,21 +6489,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-308": {
     "id": "p-308",
     "day": 21,
-    "leetcodeNumber": 414,
-    "title": "[Day 21] Trie Intermediate Challenge #4",
-    "topic": "Trie",
-    "pattern": "Matrix",
+    "leetcodeNumber": 560,
+    "title": "Subarray Sum Equals K",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Subarray sum is 0 if prefix sum repeats at two different indices.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6535,24 +6518,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-309": {
     "id": "p-309",
     "day": 21,
-    "leetcodeNumber": 711,
-    "title": "[Day 21] Tree Hard OA Question #1",
-    "topic": "Trie",
-    "pattern": "Tree",
+    "leetcodeNumber": 88,
+    "title": "Merge Sorted Array",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
     "companyTags": [
-      "Google",
-      "Meta",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Microsoft",
+      "Goldman Sachs"
     ],
-    "recognitionHint": "Combines Tree with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Fill backwards from rightmost index or use Shell sort gap method.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -6565,24 +6547,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-310": {
     "id": "p-310",
     "day": 21,
-    "leetcodeNumber": 712,
-    "title": "[Day 21] BST Hard OA Question #2",
-    "topic": "Dynamic Programming",
-    "pattern": "BST",
+    "leetcodeNumber": 493,
+    "title": "Reverse Pairs",
+    "topic": "Array",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-pairs/",
     "companyTags": [
-      "Adobe",
-      "Atlassian",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Goldman Sachs"
     ],
-    "recognitionHint": "Combines BST with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use modified Merge Sort to count cross-inversions during merge step.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -6595,20 +6576,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-311": {
     "id": "p-311",
     "day": 22,
-    "leetcodeNumber": 321,
-    "title": "[Day 22] Topological Sort Pattern Practice #1",
-    "topic": "Backtracking",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 344,
+    "title": "Reverse String",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Topological%20Sort",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Microsoft",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Topological Sort property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two pointers starting from left and right moving towards center.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6623,20 +6605,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-312": {
     "id": "p-312",
     "day": 22,
-    "leetcodeNumber": 322,
-    "title": "[Day 22] Monotonic Stack Pattern Practice #2",
-    "topic": "Stacks & Queues",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 414,
+    "title": "Third Maximum Number",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Monotonic%20Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Monotonic Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain min and max variables during single pass iteration.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6651,20 +6633,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-313": {
     "id": "p-313",
     "day": 22,
-    "leetcodeNumber": 323,
-    "title": "[Day 22] Binary Search on Answer Pattern Practice #3",
-    "topic": "Heap",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 283,
+    "title": "Move Zeroes",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search%20on%20Answer",
+    "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Binary Search on Answer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Partition array using two pointers similar to quicksort step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6679,20 +6661,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-314": {
     "id": "p-314",
     "day": 22,
-    "leetcodeNumber": 324,
-    "title": "[Day 22] Arrays Pattern Practice #4",
-    "topic": "Graph",
-    "pattern": "Arrays",
+    "leetcodeNumber": 349,
+    "title": "Intersection of Two Arrays",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Arrays property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two pointers or Hash Set to collect unique common elements.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6707,21 +6689,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-315": {
     "id": "p-315",
     "day": 22,
-    "leetcodeNumber": 421,
-    "title": "[Day 22] Heap Intermediate Challenge #1",
-    "topic": "Heap",
-    "pattern": "Matrix",
+    "leetcodeNumber": 43,
+    "title": "Multiply Strings",
+    "topic": "Array",
+    "pattern": "Math",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Simulate manual multiplication using an array to store digits.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6736,21 +6717,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-316": {
     "id": "p-316",
     "day": 22,
-    "leetcodeNumber": 422,
-    "title": "[Day 22] Graph Intermediate Challenge #2",
-    "topic": "Graph",
-    "pattern": "Union Find",
+    "leetcodeNumber": 152,
+    "title": "Maximum Product Subarray",
+    "topic": "Array",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
     "companyTags": [
-      "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Union Find state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Track both max and min product ending at current position (negative flips min to max).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6765,21 +6747,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-317": {
     "id": "p-317",
     "day": 22,
-    "leetcodeNumber": 423,
-    "title": "[Day 22] Trie Intermediate Challenge #3",
-    "topic": "Trie",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 128,
+    "title": "Longest Consecutive Sequence",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Apply Topological Sort state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Insert all numbers into Hash Set; only start counting sequence if (num - 1) not in set.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6794,21 +6777,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-318": {
     "id": "p-318",
     "day": 22,
-    "leetcodeNumber": 424,
-    "title": "[Day 22] Dynamic Programming Intermediate Challenge #4",
-    "topic": "Dynamic Programming",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 229,
+    "title": "Majority Element II",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Monotonic Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Boyer-Moore Voting Algorithm extended to k-1 candidate counters.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -6823,24 +6806,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-319": {
     "id": "p-319",
     "day": 22,
-    "leetcodeNumber": 721,
-    "title": "[Day 22] Greedy Hard OA Question #1",
-    "topic": "Dynamic Programming",
-    "pattern": "Greedy",
+    "leetcodeNumber": 123,
+    "title": "Best Time to Buy and Sell Stock III",
+    "topic": "Array",
+    "pattern": "DP",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
     "companyTags": [
-      "Adobe",
-      "Atlassian",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Greedy with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain 4 variables: buy1, sell1, buy2, sell2 representing state transactions.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -6853,24 +6834,25 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-320": {
     "id": "p-320",
     "day": 22,
-    "leetcodeNumber": 722,
-    "title": "[Day 22] DP Hard OA Question #2",
-    "topic": "Bit Manipulation",
-    "pattern": "DP",
+    "leetcodeNumber": 42,
+    "title": "Trapping Rain Water",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
     "companyTags": [
-      "Meta",
-      "Walmart",
+      "Amazon",
+      "Microsoft",
       "Google",
-      "Amazon"
+      "Meta",
+      "Goldman Sachs"
     ],
-    "recognitionHint": "Combines DP with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use two pointers tracking maxLeft and maxRight boundaries.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -6883,20 +6865,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-321": {
     "id": "p-321",
     "day": 23,
-    "leetcodeNumber": 331,
-    "title": "[Day 23] Binary Search on Answer Pattern Practice #1",
-    "topic": "Stacks & Queues",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 189,
+    "title": "Rotate Array",
+    "topic": "Array",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search%20on%20Answer",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Binary Search on Answer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Reverse entire array, then reverse first K and remaining N-K elements.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6911,20 +6893,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-322": {
     "id": "p-322",
     "day": 23,
-    "leetcodeNumber": 332,
-    "title": "[Day 23] Arrays Pattern Practice #2",
-    "topic": "Heap",
+    "leetcodeNumber": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "topic": "Array",
     "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Arrays",
+    "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Arrays property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Track minimum price seen so far and update maximum profit at each step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6939,20 +6924,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-323": {
     "id": "p-323",
     "day": 23,
-    "leetcodeNumber": 333,
-    "title": "[Day 23] Strings Pattern Practice #3",
-    "topic": "Graph",
-    "pattern": "Strings",
+    "leetcodeNumber": 1,
+    "title": "Two Sum",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
     "companyTags": [
-      "Walmart",
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
       "Uber"
     ],
-    "recognitionHint": "Identify Strings property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Store complement (K - current) in Hash Map for O(N) lookup.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6967,20 +6955,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-324": {
     "id": "p-324",
     "day": 23,
-    "leetcodeNumber": 334,
-    "title": "[Day 23] Hash Map Pattern Practice #4",
-    "topic": "Trie",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 1213,
+    "title": "Intersection of Three Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Hash%20Map",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-three-sorted-arrays/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Hash Map property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Advance three pointers simultaneously towards matching values.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -6995,21 +6983,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-325": {
     "id": "p-325",
     "day": 23,
-    "leetcodeNumber": 431,
-    "title": "[Day 23] Graph Intermediate Challenge #1",
-    "topic": "Graph",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 15,
+    "title": "3Sum",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/3sum/",
     "companyTags": [
+      "Amazon",
+      "Microsoft",
+      "Google",
       "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Adobe"
     ],
-    "recognitionHint": "Apply Monotonic Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort array, fix first element, and use two pointers for remaining pair.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7024,21 +7014,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-326": {
     "id": "p-326",
     "day": 23,
-    "leetcodeNumber": 432,
-    "title": "[Day 23] Trie Intermediate Challenge #2",
-    "topic": "Trie",
-    "pattern": "Binary Search on Answer",
+    "leetcodeNumber": 209,
+    "title": "Minimum Size Subarray Sum",
+    "topic": "Array",
+    "pattern": "Sliding Window",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
+      "Amazon",
+      "Meta",
       "Google"
     ],
-    "recognitionHint": "Apply Binary Search on Answer state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use sliding window; expand right until sum >= K, then shrink left to minimize window length.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7053,21 +7043,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-327": {
     "id": "p-327",
     "day": 23,
-    "leetcodeNumber": 433,
-    "title": "[Day 23] Dynamic Programming Intermediate Challenge #3",
-    "topic": "Dynamic Programming",
-    "pattern": "Arrays",
+    "leetcodeNumber": 75,
+    "title": "Sort Colors",
+    "topic": "Array",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
     "companyTags": [
-      "Walmart",
-      "Amazon",
-      "Adobe"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Arrays state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Apply Dutch National Flag 3-pointer algorithm around low and high range bounds.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7082,21 +7070,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-328": {
     "id": "p-328",
     "day": 23,
-    "leetcodeNumber": 434,
-    "title": "[Day 23] Bit Manipulation Intermediate Challenge #4",
-    "topic": "Bit Manipulation",
-    "pattern": "Strings",
+    "leetcodeNumber": 1151,
+    "title": "Minimum Swaps to Group All 1s Together",
+    "topic": "Array",
+    "pattern": "Sliding Window",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Strings state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Count elements <= K to determine window size, then find window with max valid elements.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7111,24 +7097,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-329": {
     "id": "p-329",
     "day": 23,
-    "leetcodeNumber": 731,
-    "title": "[Day 23] Union Find Hard OA Question #1",
-    "topic": "Bit Manipulation",
-    "pattern": "Union Find",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
+    "topic": "Array",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Union%20Find",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Meta",
-      "Walmart",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Union Find with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on partition point of smaller array to balance left and right halves.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -7141,24 +7126,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-330": {
     "id": "p-330",
     "day": 23,
-    "leetcodeNumber": 732,
-    "title": "[Day 23] Topological Sort Hard OA Question #2",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
     "topic": "Array",
-    "pattern": "Topological Sort",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Topological%20Sort",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Atlassian",
-      "Oracle",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Topological Sort with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Partition smaller array X such that left half count equals right half count.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -7171,20 +7156,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-331": {
     "id": "p-331",
     "day": 24,
-    "leetcodeNumber": 341,
-    "title": "[Day 24] Strings Pattern Practice #1",
-    "topic": "Heap",
-    "pattern": "Strings",
+    "leetcodeNumber": 350,
+    "title": "Intersection of Two Arrays II",
+    "topic": "Array",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
     "companyTags": [
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Strings property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use frequency map of parent array and decrement for subset check.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7199,20 +7183,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-332": {
     "id": "p-332",
     "day": 24,
-    "leetcodeNumber": 342,
-    "title": "[Day 24] Hash Map Pattern Practice #2",
-    "topic": "Graph",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 1051,
+    "title": "Height Checker",
+    "topic": "Array",
+    "pattern": "Sliding Window",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Hash%20Map",
+    "leetcodeUrl": "https://leetcode.com/problems/height-checker/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Hash Map property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Sort array and find minimum difference arr[i + m - 1] - arr[i].",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7227,20 +7210,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-333": {
     "id": "p-333",
     "day": 24,
-    "leetcodeNumber": 343,
-    "title": "[Day 24] Two Pointer Pattern Practice #3",
-    "topic": "Trie",
+    "leetcodeNumber": 2404,
+    "title": "Most Frequent Even Element",
+    "topic": "Array",
     "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/most-frequent-even-element/",
     "companyTags": [
-      "Oracle",
       "Amazon"
     ],
-    "recognitionHint": "Identify Two Pointer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Use two pointers from left and right; merge smaller element with adjacent until equal.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7256,19 +7238,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
     "id": "p-334",
     "day": 24,
     "leetcodeNumber": 344,
-    "title": "[Day 24] Sliding Window Pattern Practice #4",
-    "topic": "Dynamic Programming",
-    "pattern": "Sliding Window",
+    "title": "Reverse String",
+    "topic": "String",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Sliding%20Window",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Sliding Window property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Swap s[left] and s[right] while left < right.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7283,21 +7265,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-335": {
     "id": "p-335",
     "day": 24,
-    "leetcodeNumber": 441,
-    "title": "[Day 24] Trie Intermediate Challenge #1",
-    "topic": "Trie",
-    "pattern": "Strings",
+    "leetcodeNumber": 54,
+    "title": "Spiral Matrix",
+    "topic": "Matrix",
+    "pattern": "Matrix",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
     "companyTags": [
-      "Atlassian",
-      "Uber",
-      "Google"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Oracle"
     ],
-    "recognitionHint": "Apply Strings state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Maintain 4 boundaries: top, bottom, left, right and traverse clockwise in loop.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7312,21 +7295,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-336": {
     "id": "p-336",
     "day": 24,
-    "leetcodeNumber": 442,
-    "title": "[Day 24] Dynamic Programming Intermediate Challenge #2",
-    "topic": "Dynamic Programming",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 74,
+    "title": "Search a 2D Matrix",
+    "topic": "Matrix",
+    "pattern": "Matrix",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Microsoft",
+      "Meta"
     ],
-    "recognitionHint": "Apply Hash Map state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Treat M x N matrix as virtual 1D array or start search from top-right corner.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7341,21 +7324,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-337": {
     "id": "p-337",
     "day": 24,
-    "leetcodeNumber": 443,
-    "title": "[Day 24] Bit Manipulation Intermediate Challenge #3",
-    "topic": "Bit Manipulation",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 1428,
+    "title": "Leftmost Column with at Least a One",
+    "topic": "Matrix",
+    "pattern": "Binary Search",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Two Pointer state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Start from top-right corner; if 1, move left to find first 1, else move down.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7370,21 +7351,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-338": {
     "id": "p-338",
     "day": 24,
-    "leetcodeNumber": 444,
-    "title": "[Day 24] Array Intermediate Challenge #4",
-    "topic": "Array",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "topic": "Matrix",
+    "pattern": "Heap",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     "companyTags": [
-      "Goldman Sachs",
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Sliding Window state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Min-Heap containing first element of each row.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7399,24 +7379,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-339": {
     "id": "p-339",
     "day": 24,
-    "leetcodeNumber": 741,
-    "title": "[Day 24] Strings Hard OA Question #1",
-    "topic": "Array",
-    "pattern": "Strings",
+    "leetcodeNumber": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "topic": "Matrix",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Strings",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     "companyTags": [
-      "Atlassian",
-      "Oracle",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Strings with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search over value range [min, max] and count elements <= mid across rows.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -7429,24 +7407,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-340": {
     "id": "p-340",
     "day": 24,
-    "leetcodeNumber": 742,
-    "title": "[Day 24] Hash Map Hard OA Question #2",
+    "leetcodeNumber": 85,
+    "title": "Maximal Rectangle",
     "topic": "Matrix",
-    "pattern": "Hash Map",
+    "pattern": "Monotonic Stack",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Hash%20Map",
+    "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
     "companyTags": [
-      "Walmart",
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Hash Map with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Convert each matrix row into a histogram and apply Largest Rectangle in Histogram algorithm.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -7459,20 +7436,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-341": {
     "id": "p-341",
     "day": 25,
-    "leetcodeNumber": 351,
-    "title": "[Day 25] Two Pointer Pattern Practice #1",
-    "topic": "Graph",
+    "leetcodeNumber": 125,
+    "title": "Valid Palindrome",
+    "topic": "String",
     "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
     "companyTags": [
-      "Walmart",
-      "Uber"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Identify Two Pointer property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Filter non-alphanumeric chars and compare two pointers from ends.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7487,20 +7464,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-342": {
     "id": "p-342",
     "day": 25,
-    "leetcodeNumber": 352,
-    "title": "[Day 25] Sliding Window Pattern Practice #2",
-    "topic": "Trie",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 387,
+    "title": "First Unique Character in a String",
+    "topic": "String",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Sliding%20Window",
+    "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Sliding Window property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Count character occurrences using frequency map or 26-element array.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7515,20 +7492,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-343": {
     "id": "p-343",
     "day": 25,
-    "leetcodeNumber": 353,
-    "title": "[Day 25] Binary Search Pattern Practice #3",
-    "topic": "Dynamic Programming",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 796,
+    "title": "Rotate String",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
       "Microsoft"
     ],
-    "recognitionHint": "Identify Binary Search property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Check if s2 is a substring of (s1 + s1) of equal lengths.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7543,20 +7520,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-344": {
     "id": "p-344",
     "day": 25,
-    "leetcodeNumber": 354,
-    "title": "[Day 25] Stack Pattern Practice #4",
-    "topic": "Bit Manipulation",
-    "pattern": "Stack",
+    "leetcodeNumber": 1221,
+    "title": "Split a String in Balanced Strings",
+    "topic": "String",
+    "pattern": "Greedy",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/split-a-string-in-balanced-strings/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain counter (+1 for 0, -1 for 1); count when score hits 0.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7571,21 +7547,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-345": {
     "id": "p-345",
     "day": 25,
-    "leetcodeNumber": 451,
-    "title": "[Day 25] Dynamic Programming Intermediate Challenge #1",
-    "topic": "Dynamic Programming",
-    "pattern": "Sliding Window",
+    "leetcodeNumber": 48,
+    "title": "Rotate Image",
+    "topic": "Matrix",
+    "pattern": "Matrix",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Dynamic%20Programming",
+    "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
     "companyTags": [
-      "Walmart",
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Sliding Window state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "First transpose matrix (swap matrix[i][j] and matrix[j][i]), then reverse each row.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7600,21 +7577,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-346": {
     "id": "p-346",
     "day": 25,
-    "leetcodeNumber": 452,
-    "title": "[Day 25] Bit Manipulation Intermediate Challenge #2",
-    "topic": "Bit Manipulation",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "topic": "Matrix",
+    "pattern": "Heap",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Binary Search state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Min-Heap initialized with column 0 elements or Binary Search on range.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7629,21 +7605,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-347": {
     "id": "p-347",
     "day": 25,
-    "leetcodeNumber": 453,
-    "title": "[Day 25] Array Intermediate Challenge #3",
-    "topic": "Array",
-    "pattern": "Stack",
+    "leetcodeNumber": 38,
+    "title": "Count and Say",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
     "companyTags": [
-      "Goldman Sachs",
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Meta"
     ],
-    "recognitionHint": "Apply Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Iteratively run run-length encoding on previous string.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7658,21 +7633,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-348": {
     "id": "p-348",
     "day": 25,
-    "leetcodeNumber": 454,
-    "title": "[Day 25] Matrix Intermediate Challenge #4",
-    "topic": "Matrix",
-    "pattern": "Queue",
+    "leetcodeNumber": 5,
+    "title": "Longest Palindromic Substring",
+    "topic": "String",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Expand around center for both odd and even length centers.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7687,24 +7663,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-349": {
     "id": "p-349",
     "day": 25,
-    "leetcodeNumber": 751,
-    "title": "[Day 25] Stack Hard OA Question #1",
-    "topic": "Matrix",
-    "pattern": "Stack",
+    "leetcodeNumber": 68,
+    "title": "Text Justification",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
     "companyTags": [
-      "Walmart",
-      "Goldman Sachs",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Uber"
     ],
-    "recognitionHint": "Combines Stack with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "DP state tracking minimum cost/line cost up to index i.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -7717,24 +7692,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-350": {
     "id": "p-350",
     "day": 25,
-    "leetcodeNumber": 752,
-    "title": "[Day 25] Queue Hard OA Question #2",
+    "leetcodeNumber": 28,
+    "title": "Find the Index of the First Occurrence in a String",
     "topic": "String",
-    "pattern": "Queue",
+    "pattern": "Strings",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
     "companyTags": [
-      "Oracle",
-      "Uber",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Queue with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Build Longest Prefix Suffix (LPS) array to skip redundant comparisons.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -7747,20 +7721,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-351": {
     "id": "p-351",
     "day": 26,
-    "leetcodeNumber": 361,
-    "title": "[Day 26] Binary Search Pattern Practice #1",
-    "topic": "Trie",
-    "pattern": "Binary Search",
+    "leetcodeNumber": 20,
+    "title": "Valid Parentheses",
+    "topic": "String",
+    "pattern": "Stack",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Search",
+    "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
     "companyTags": [
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Binary Search property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Push opening brackets onto stack; pop and verify match for closing brackets.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7775,20 +7752,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-352": {
     "id": "p-352",
     "day": 26,
-    "leetcodeNumber": 362,
-    "title": "[Day 26] Stack Pattern Practice #2",
-    "topic": "Dynamic Programming",
-    "pattern": "Stack",
+    "leetcodeNumber": 14,
+    "title": "Longest Common Prefix",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
     "companyTags": [
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify Stack property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Compare horizontal characters across all strings until mismatch.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7803,20 +7781,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-353": {
     "id": "p-353",
     "day": 26,
-    "leetcodeNumber": 363,
-    "title": "[Day 26] Queue Pattern Practice #3",
-    "topic": "Bit Manipulation",
-    "pattern": "Queue",
+    "leetcodeNumber": 205,
+    "title": "Isomorphic Strings",
+    "topic": "String",
+    "pattern": "Hash Map",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
     "companyTags": [
-      "Uber",
+      "Amazon",
       "Google"
     ],
-    "recognitionHint": "Identify Queue property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain bi-directional character mapping dictionaries.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7831,20 +7809,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-354": {
     "id": "p-354",
     "day": 26,
-    "leetcodeNumber": 364,
-    "title": "[Day 26] Heap Pattern Practice #4",
-    "topic": "Array",
-    "pattern": "Heap",
+    "leetcodeNumber": 69,
+    "title": "Sqrt(x)",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google"
     ],
-    "recognitionHint": "Identify Heap property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Binary search on integer range [1, X] checking mid * mid <= X.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -7859,21 +7837,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-355": {
     "id": "p-355",
     "day": 26,
-    "leetcodeNumber": 461,
-    "title": "[Day 26] Bit Manipulation Intermediate Challenge #1",
-    "topic": "Bit Manipulation",
-    "pattern": "Queue",
+    "leetcodeNumber": 1143,
+    "title": "Longest Common Subsequence",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
     "companyTags": [
-      "Oracle",
-      "Microsoft",
-      "Meta"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Queue state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Find LCS of string with itself where indices i != j.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7888,21 +7864,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-356": {
     "id": "p-356",
     "day": 26,
-    "leetcodeNumber": 462,
-    "title": "[Day 26] Array Intermediate Challenge #2",
-    "topic": "Array",
-    "pattern": "Heap",
+    "leetcodeNumber": 78,
+    "title": "Subsets",
+    "topic": "String",
+    "pattern": "Backtracking",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/subsets/",
     "companyTags": [
-      "Goldman Sachs",
-      "Google",
-      "Atlassian"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Heap state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "For each character, recurse including and excluding current char.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7917,21 +7892,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-357": {
     "id": "p-357",
     "day": 26,
-    "leetcodeNumber": 463,
-    "title": "[Day 26] Matrix Intermediate Challenge #3",
-    "topic": "Matrix",
-    "pattern": "Linked List",
+    "leetcodeNumber": 46,
+    "title": "Permutations",
+    "topic": "String",
+    "pattern": "Backtracking",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/permutations/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Apply Linked List state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Swap elements at current index with all subsequent indices recursively.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7946,21 +7921,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-358": {
     "id": "p-358",
     "day": 26,
-    "leetcodeNumber": 464,
-    "title": "[Day 26] String Intermediate Challenge #4",
+    "leetcodeNumber": 72,
+    "title": "Edit Distance",
     "topic": "String",
-    "pattern": "Tree",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
     "companyTags": [
       "Amazon",
+      "Google",
       "Meta",
-      "Oracle"
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "DP grid: insert, delete, or replace operations based on character match.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -7975,24 +7951,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-359": {
     "id": "p-359",
     "day": 26,
-    "leetcodeNumber": 761,
-    "title": "[Day 26] BST Hard OA Question #1",
+    "leetcodeNumber": 76,
+    "title": "Minimum Window Substring",
     "topic": "String",
-    "pattern": "BST",
+    "pattern": "Sliding Window",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
     "companyTags": [
-      "Oracle",
-      "Uber",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta",
+      "Uber"
     ],
-    "recognitionHint": "Combines BST with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Track unique char counts; expand right to fulfill requirement, contract left to minimize.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8005,24 +7981,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-360": {
     "id": "p-360",
     "day": 26,
-    "leetcodeNumber": 762,
-    "title": "[Day 26] Trie Hard OA Question #2",
+    "leetcodeNumber": 4,
+    "title": "Median of Two Sorted Arrays",
     "topic": "Searching & Sorting",
-    "pattern": "Trie",
+    "pattern": "Binary Search",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
     "companyTags": [
-      "Goldman Sachs",
       "Amazon",
-      "Google",
-      "Amazon"
+      "Google"
     ],
-    "recognitionHint": "Combines Trie with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on partition size of smaller array ensuring K elements total on left.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8035,20 +8009,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-361": {
     "id": "p-361",
     "day": 27,
-    "leetcodeNumber": 371,
-    "title": "[Day 27] Queue Pattern Practice #1",
-    "topic": "Dynamic Programming",
-    "pattern": "Queue",
+    "leetcodeNumber": 169,
+    "title": "Majority Element",
+    "topic": "Searching & Sorting",
+    "pattern": "Arrays",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
+      "Google",
+      "Meta",
       "Microsoft"
     ],
-    "recognitionHint": "Identify Queue property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Boyer-Moore Voting Algorithm: maintain count and increment/decrement based on match.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8063,20 +8039,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-362": {
     "id": "p-362",
     "day": 27,
-    "leetcodeNumber": 372,
-    "title": "[Day 27] Heap Pattern Practice #2",
-    "topic": "Bit Manipulation",
-    "pattern": "Heap",
+    "leetcodeNumber": 206,
+    "title": "Reverse Linked List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Heap property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Iteratively update prev, curr, and next pointers.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8091,20 +8070,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-363": {
     "id": "p-363",
     "day": 27,
-    "leetcodeNumber": 373,
-    "title": "[Day 27] Linked List Pattern Practice #3",
-    "topic": "Array",
-    "pattern": "Linked List",
+    "leetcodeNumber": 141,
+    "title": "Linked List Cycle",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Linked List property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Floyd's Cycle Finding algorithm: fast pointer moves 2 steps, slow 1 step.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8119,20 +8099,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-364": {
     "id": "p-364",
     "day": 27,
-    "leetcodeNumber": 374,
-    "title": "[Day 27] Tree Pattern Practice #4",
-    "topic": "Matrix",
-    "pattern": "Tree",
+    "leetcodeNumber": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Adobe"
     ],
-    "recognitionHint": "Identify Tree property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "If curr.val == curr.next.val, skip next node: curr.next = curr.next.next.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8147,21 +8127,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-365": {
     "id": "p-365",
     "day": 27,
-    "leetcodeNumber": 471,
-    "title": "[Day 27] Array Intermediate Challenge #1",
-    "topic": "Array",
-    "pattern": "Tree",
+    "leetcodeNumber": 139,
+    "title": "Word Break",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Array",
+    "leetcodeUrl": "https://leetcode.com/problems/word-break/",
     "companyTags": [
-      "Goldman Sachs",
+      "Amazon",
+      "Meta",
       "Google",
-      "Atlassian"
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Tree state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "dp[i] is true if dp[j] is true and s[j..i] exists in word dictionary.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8176,21 +8157,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-366": {
     "id": "p-366",
     "day": 27,
-    "leetcodeNumber": 472,
-    "title": "[Day 27] Matrix Intermediate Challenge #2",
-    "topic": "Matrix",
-    "pattern": "BST",
+    "leetcodeNumber": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "topic": "String",
+    "pattern": "Strings",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply BST state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use rolling hash algorithm to compute window hash in O(1) step.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8205,21 +8185,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-367": {
     "id": "p-367",
     "day": 27,
-    "leetcodeNumber": 473,
-    "title": "[Day 27] String Intermediate Challenge #3",
+    "leetcodeNumber": 1963,
+    "title": "Minimum Number of Swaps to Make the String Balanced",
     "topic": "String",
-    "pattern": "Trie",
+    "pattern": "Greedy",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/",
     "companyTags": [
-      "Amazon",
-      "Meta",
-      "Oracle"
+      "Amazon"
     ],
-    "recognitionHint": "Apply Trie state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Track max imbalance of open/close brackets; swaps needed = (max_unbalanced + 1) / 2.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8234,21 +8212,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-368": {
     "id": "p-368",
     "day": 27,
-    "leetcodeNumber": 474,
-    "title": "[Day 27] Searching & Sorting Intermediate Challenge #4",
-    "topic": "Searching & Sorting",
-    "pattern": "Graph",
+    "leetcodeNumber": 1143,
+    "title": "Longest Common Subsequence",
+    "topic": "String",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Adobe"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "2D DP grid: if s1[i] == s2[j], 1 + dp[i-1][j-1], else max(dp[i-1][j], dp[i][j-1]).",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8263,24 +8242,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-369": {
     "id": "p-369",
     "day": 27,
-    "leetcodeNumber": 771,
-    "title": "[Day 27] DP Hard OA Question #1",
+    "leetcodeNumber": 410,
+    "title": "Split Array Largest Sum",
     "topic": "Searching & Sorting",
-    "pattern": "DP",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
     "companyTags": [
-      "Goldman Sachs",
       "Amazon",
       "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines DP with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Binary search on maximum allowed page sum per student.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8293,24 +8271,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-370": {
     "id": "p-370",
     "day": 27,
-    "leetcodeNumber": 772,
-    "title": "[Day 27] Bit Manipulation Hard OA Question #2",
-    "topic": "LinkedList",
-    "pattern": "Bit Manipulation",
+    "leetcodeNumber": 410,
+    "title": "Split Array Largest Sum",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Bit%20Manipulation",
+    "leetcodeUrl": "https://leetcode.com/problems/split-array-largest-sum/",
     "companyTags": [
-      "Uber",
-      "Microsoft",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Bit Manipulation with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Same as Book Allocation: binary search max length per painter.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8323,20 +8299,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-371": {
     "id": "p-371",
     "day": 28,
-    "leetcodeNumber": 381,
-    "title": "[Day 28] Linked List Pattern Practice #1",
-    "topic": "Bit Manipulation",
-    "pattern": "Linked List",
+    "leetcodeNumber": 160,
+    "title": "Intersection of Two Linked Lists",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Linked%20List",
+    "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
     "companyTags": [
-      "Uber",
-      "Google"
+      "Amazon",
+      "Google",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Linked List property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Switch pointers pA to headB and pB to headA when reaching null; they meet at intersection.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8351,20 +8328,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-372": {
     "id": "p-372",
     "day": 28,
-    "leetcodeNumber": 382,
-    "title": "[Day 28] Tree Pattern Practice #2",
-    "topic": "Array",
-    "pattern": "Tree",
+    "leetcodeNumber": 876,
+    "title": "Middle of the Linked List",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Tree",
+    "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google"
     ],
-    "recognitionHint": "Identify Tree property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Slow moves 1 step while fast moves 2 steps; slow lands at middle node.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8379,20 +8356,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-373": {
     "id": "p-373",
     "day": 28,
-    "leetcodeNumber": 383,
-    "title": "[Day 28] BST Pattern Practice #3",
-    "topic": "Matrix",
-    "pattern": "BST",
+    "leetcodeNumber": 234,
+    "title": "Palindrome Linked List",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
     "companyTags": [
-      "Microsoft",
+      "Amazon",
+      "Google",
       "Meta"
     ],
-    "recognitionHint": "Identify BST property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Find middle, reverse second half, and compare values with first half.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8407,20 +8385,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-374": {
     "id": "p-374",
     "day": 28,
-    "leetcodeNumber": 384,
-    "title": "[Day 28] Trie Pattern Practice #4",
-    "topic": "String",
-    "pattern": "Trie",
+    "leetcodeNumber": 86,
+    "title": "Partition List",
+    "topic": "LinkedList",
+    "pattern": "Linked List",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Trie property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Maintain three dummy heads for 0, 1, and 2 lists and append nodes.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8435,21 +8412,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-375": {
     "id": "p-375",
     "day": 28,
-    "leetcodeNumber": 481,
-    "title": "[Day 28] Matrix Intermediate Challenge #1",
-    "topic": "Matrix",
-    "pattern": "Graph",
+    "leetcodeNumber": 767,
+    "title": "Reorganize String",
+    "topic": "String",
+    "pattern": "Heap",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Matrix",
+    "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
     "companyTags": [
-      "Uber",
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Graph state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use Max-Heap of character frequencies; alternate picking top two most frequent chars.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8464,21 +8440,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-376": {
     "id": "p-376",
     "day": 28,
-    "leetcodeNumber": 482,
-    "title": "[Day 28] String Intermediate Challenge #2",
+    "leetcodeNumber": 49,
+    "title": "Group Anagrams",
     "topic": "String",
-    "pattern": "Backtracking",
+    "pattern": "Hash Map",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
     "companyTags": [
       "Amazon",
+      "Google",
       "Meta",
-      "Oracle"
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Backtracking state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use character count tuple or sorted string as Hash Map key.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8493,21 +8470,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-377": {
     "id": "p-377",
     "day": 28,
-    "leetcodeNumber": 483,
-    "title": "[Day 28] Searching & Sorting Intermediate Challenge #3",
+    "leetcodeNumber": 34,
+    "title": "Find First and Last Position of Element in Sorted Array",
     "topic": "Searching & Sorting",
-    "pattern": "Greedy",
+    "pattern": "Binary Search",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google",
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Greedy state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Perform two separate Binary Searches: one for leftmost index, one for rightmost.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8522,21 +8500,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-378": {
     "id": "p-378",
     "day": 28,
-    "leetcodeNumber": 484,
-    "title": "[Day 28] LinkedList Intermediate Challenge #4",
-    "topic": "LinkedList",
-    "pattern": "DP",
+    "leetcodeNumber": 33,
+    "title": "Search in Rotated Sorted Array",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Walmart",
-      "Uber"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Identify which half (left or right) is sorted, then check if target lies within bounds.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8551,24 +8530,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-379": {
     "id": "p-379",
     "day": 28,
-    "leetcodeNumber": 781,
-    "title": "[Day 28] Topological Sort Hard OA Question #1",
+    "leetcodeNumber": 25,
+    "title": "Reverse Nodes in k-Group",
     "topic": "LinkedList",
-    "pattern": "Topological Sort",
+    "pattern": "Linked List",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Topological%20Sort",
+    "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
     "companyTags": [
-      "Uber",
-      "Microsoft",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Topological Sort with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Count node group size; reverse K nodes iteratively and link to next recursed group.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8581,24 +8559,24 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-380": {
     "id": "p-380",
     "day": 28,
-    "leetcodeNumber": 782,
-    "title": "[Day 28] Monotonic Stack Hard OA Question #2",
-    "topic": "Binary Trees",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 23,
+    "title": "Merge k Sorted Lists",
+    "topic": "LinkedList",
+    "pattern": "Heap",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Monotonic%20Stack",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
     "companyTags": [
       "Amazon",
       "Google",
-      "Google",
-      "Amazon"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Combines Monotonic Stack with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Use Min-Heap of list head nodes to pick smallest element in O(log K).",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8611,20 +8589,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-381": {
     "id": "p-381",
     "day": 29,
-    "leetcodeNumber": 391,
-    "title": "[Day 29] BST Pattern Practice #1",
-    "topic": "Array",
-    "pattern": "BST",
+    "leetcodeNumber": 19,
+    "title": "Remove Nth Node From End of List",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
     "companyTags": [
       "Amazon",
-      "Adobe"
+      "Google",
+      "Meta"
     ],
-    "recognitionHint": "Identify BST property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Advance fast pointer N steps ahead, then move both fast and slow until fast hits end.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8639,20 +8618,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-382": {
     "id": "p-382",
     "day": 29,
-    "leetcodeNumber": 392,
-    "title": "[Day 29] Trie Pattern Practice #2",
-    "topic": "Matrix",
-    "pattern": "Trie",
+    "leetcodeNumber": 104,
+    "title": "Maximum Depth of Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Trie",
+    "leetcodeUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
     "companyTags": [
-      "Microsoft",
+      "Amazon",
+      "Google",
       "Meta"
     ],
-    "recognitionHint": "Identify Trie property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "1 + max(maxDepth(root.left), maxDepth(root.right)).",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8667,20 +8647,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-383": {
     "id": "p-383",
     "day": 29,
-    "leetcodeNumber": 393,
-    "title": "[Day 29] Graph Pattern Practice #3",
-    "topic": "String",
-    "pattern": "Graph",
+    "leetcodeNumber": 543,
+    "title": "Diameter of Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Atlassian"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Identify Graph property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Track max(left_height + right_height) at each node during DFS depth recursion.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8695,20 +8677,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-384": {
     "id": "p-384",
     "day": 29,
-    "leetcodeNumber": 394,
-    "title": "[Day 29] Backtracking Pattern Practice #4",
-    "topic": "Searching & Sorting",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Backtracking property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Left -> Root -> Right using explicit stack for iterative approach.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8723,21 +8705,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-385": {
     "id": "p-385",
     "day": 29,
-    "leetcodeNumber": 491,
-    "title": "[Day 29] String Intermediate Challenge #1",
-    "topic": "String",
-    "pattern": "DP",
+    "leetcodeNumber": 645,
+    "title": "Set Mismatch",
+    "topic": "Searching & Sorting",
+    "pattern": "Math",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=String",
+    "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
     "companyTags": [
       "Amazon",
-      "Meta",
-      "Oracle"
+      "Google"
     ],
-    "recognitionHint": "Apply DP state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use sum & sum of squares equations or bitwise XOR partitioning.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8752,21 +8733,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-386": {
     "id": "p-386",
     "day": 29,
-    "leetcodeNumber": 492,
-    "title": "[Day 29] Searching & Sorting Intermediate Challenge #2",
+    "leetcodeNumber": 18,
+    "title": "4Sum",
     "topic": "Searching & Sorting",
-    "pattern": "Bit Manipulation",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/4sum/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Bit Manipulation state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort array, use nested loops for first two numbers, and two pointers for last two.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8781,21 +8761,21 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-387": {
     "id": "p-387",
     "day": 29,
-    "leetcodeNumber": 493,
-    "title": "[Day 29] LinkedList Intermediate Challenge #3",
-    "topic": "LinkedList",
-    "pattern": "Math",
+    "leetcodeNumber": 198,
+    "title": "House Robber",
+    "topic": "Searching & Sorting",
+    "pattern": "DP",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Walmart",
-      "Uber"
+      "Meta"
     ],
-    "recognitionHint": "Apply Math state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "dp[i] = max(dp[i-1], dp[i-2] + nums[i]) tracking previous two states.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8810,21 +8790,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-388": {
     "id": "p-388",
     "day": 29,
-    "leetcodeNumber": 494,
-    "title": "[Day 29] Binary Trees Intermediate Challenge #4",
-    "topic": "Binary Trees",
-    "pattern": "Matrix",
+    "leetcodeNumber": 259,
+    "title": "3Sum Smaller",
+    "topic": "Searching & Sorting",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/3sum-smaller/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Sort array; if arr[left] + arr[right] < target, add (right - left) to answer.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -8839,24 +8818,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-389": {
     "id": "p-389",
     "day": 29,
-    "leetcodeNumber": 791,
-    "title": "[Day 29] Hash Map Hard OA Question #1",
-    "topic": "Binary Trees",
-    "pattern": "Hash Map",
+    "leetcodeNumber": 84,
+    "title": "Largest Rectangle in Histogram",
+    "topic": "Stacks & Queues",
+    "pattern": "Monotonic Stack",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Hash%20Map",
+    "leetcodeUrl": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
     "companyTags": [
       "Amazon",
       "Google",
-      "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Hash Map with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain monotonic increasing stack of bar indices to find left/right boundary limits.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8869,24 +8847,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-390": {
     "id": "p-390",
     "day": 29,
-    "leetcodeNumber": 792,
-    "title": "[Day 29] Two Pointer Hard OA Question #2",
-    "topic": "BST",
-    "pattern": "Two Pointer",
+    "leetcodeNumber": 239,
+    "title": "Sliding Window Maximum",
+    "topic": "Stacks & Queues",
+    "pattern": "Sliding Window",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Two%20Pointer",
+    "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
     "companyTags": [
-      "Microsoft",
-      "Adobe",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Two Pointer with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Maintain monotonic decreasing Deque storing indices of current window elements.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -8899,20 +8876,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-391": {
     "id": "p-391",
     "day": 30,
-    "leetcodeNumber": 401,
-    "title": "[Day 30] Graph Pattern Practice #1",
-    "topic": "Matrix",
-    "pattern": "Graph",
+    "leetcodeNumber": 144,
+    "title": "Binary Tree Preorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Graph",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
     "companyTags": [
-      "Microsoft",
-      "Meta"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify Graph property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Root -> Left -> Right using explicit stack for iterative approach.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8927,20 +8904,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-392": {
     "id": "p-392",
     "day": 30,
-    "leetcodeNumber": 402,
-    "title": "[Day 30] Backtracking Pattern Practice #2",
-    "topic": "String",
-    "pattern": "Backtracking",
+    "leetcodeNumber": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Backtracking",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
     "companyTags": [
-      "Google",
-      "Atlassian"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Backtracking property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Left -> Right -> Root using two stacks or single stack with prev pointer.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8955,20 +8931,19 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-393": {
     "id": "p-393",
     "day": 30,
-    "leetcodeNumber": 403,
-    "title": "[Day 30] Greedy Pattern Practice #3",
-    "topic": "Searching & Sorting",
-    "pattern": "Greedy",
+    "leetcodeNumber": 199,
+    "title": "Binary Tree Right Side View",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Greedy",
+    "leetcodeUrl": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "companyTags": [
-      "Adobe",
-      "Walmart"
+      "Amazon"
     ],
-    "recognitionHint": "Identify Greedy property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "BFS/DFS tracking first node visited at each depth level.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -8983,20 +8958,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-394": {
     "id": "p-394",
     "day": 30,
-    "leetcodeNumber": 404,
-    "title": "[Day 30] DP Pattern Practice #4",
-    "topic": "LinkedList",
-    "pattern": "DP",
+    "leetcodeNumber": 110,
+    "title": "Balanced Binary Tree",
+    "topic": "Binary Trees",
+    "pattern": "Tree",
     "difficulty": "Easy",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=DP",
+    "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
     "companyTags": [
-      "Meta",
-      "Oracle"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Identify DP property and apply two pointers, hash map, or direct iteration.",
+    "recognitionHint": "Return -1 early if abs(left_height - right_height) > 1.",
     "commonMistakes": [
-      "Off-by-one array boundary condition",
-      "Not handling empty inputs"
+      "Boundary condition off-by-one check",
+      "Handling empty or null input edge cases"
     ],
     "timeComplexity": "O(N)",
     "spaceComplexity": "O(1)",
@@ -9011,21 +8986,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-395": {
     "id": "p-395",
     "day": 30,
-    "leetcodeNumber": 501,
-    "title": "[Day 30] Searching & Sorting Intermediate Challenge #1",
+    "leetcodeNumber": 88,
+    "title": "Merge Sorted Array",
     "topic": "Searching & Sorting",
-    "pattern": "Matrix",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Searching%20%26%20Sorting",
+    "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
     "companyTags": [
-      "Microsoft",
-      "Atlassian",
-      "Goldman Sachs"
+      "Amazon",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Matrix state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Use gap method (Shell sort idea) or backward insertion pointer.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -9040,21 +9014,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-396": {
     "id": "p-396",
     "day": 30,
-    "leetcodeNumber": 502,
-    "title": "[Day 30] LinkedList Intermediate Challenge #2",
-    "topic": "LinkedList",
-    "pattern": "Union Find",
+    "leetcodeNumber": 238,
+    "title": "Product of Array Except Self",
+    "topic": "Searching & Sorting",
+    "pattern": "Arrays",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=LinkedList",
+    "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
     "companyTags": [
+      "Amazon",
       "Google",
-      "Walmart",
-      "Uber"
+      "Meta",
+      "Microsoft"
     ],
-    "recognitionHint": "Apply Union Find state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Compute prefix products in first pass, then multiply suffix products in second pass.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -9069,21 +9044,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-397": {
     "id": "p-397",
     "day": 30,
-    "leetcodeNumber": 503,
-    "title": "[Day 30] Binary Trees Intermediate Challenge #3",
-    "topic": "Binary Trees",
-    "pattern": "Topological Sort",
+    "leetcodeNumber": 1011,
+    "title": "Capacity To Ship Packages Within D Days",
+    "topic": "Searching & Sorting",
+    "pattern": "Binary Search on Answer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Binary%20Trees",
+    "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
     "companyTags": [
-      "Adobe",
-      "Oracle",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Topological Sort state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "Binary search over search space [max_elem, sum_elem] with predicate validation function.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -9098,21 +9072,20 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-398": {
     "id": "p-398",
     "day": 30,
-    "leetcodeNumber": 504,
-    "title": "[Day 30] BST Intermediate Challenge #4",
-    "topic": "BST",
-    "pattern": "Monotonic Stack",
+    "leetcodeNumber": 142,
+    "title": "Linked List Cycle II",
+    "topic": "LinkedList",
+    "pattern": "Two Pointer",
     "difficulty": "Medium",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=BST",
+    "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
     "companyTags": [
-      "Meta",
-      "Goldman Sachs",
-      "Microsoft"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Apply Monotonic Stack state formulation or window invariant to optimize brute force solution.",
+    "recognitionHint": "After slow & fast meet, reset slow to head; advance both 1 step until they meet again.",
     "commonMistakes": [
-      "Integer overflow on large inputs",
-      "Incorrect base cases in recursion/DP"
+      "State overflow/underflow",
+      "Mismanaging pointer index references"
     ],
     "timeComplexity": "O(N log N)",
     "spaceComplexity": "O(N)",
@@ -9127,24 +9100,23 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-399": {
     "id": "p-399",
     "day": 30,
-    "leetcodeNumber": 801,
-    "title": "[Day 30] Queue Hard OA Question #1",
-    "topic": "BST",
-    "pattern": "Queue",
+    "leetcodeNumber": 127,
+    "title": "Word Ladder",
+    "topic": "Graph",
+    "pattern": "Graph",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Queue",
+    "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
     "companyTags": [
-      "Microsoft",
-      "Adobe",
+      "Amazon",
       "Google",
-      "Amazon"
+      "Meta"
     ],
-    "recognitionHint": "Combines Queue with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "BFS level search mutating 1 char per position matching word set.",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",
@@ -9157,24 +9129,22 @@ export const INITIAL_PROBLEMS: Record<string, Problem> = {
   "p-400": {
     "id": "p-400",
     "day": 30,
-    "leetcodeNumber": 802,
-    "title": "[Day 30] Heap Hard OA Question #2",
-    "topic": "Greedy",
-    "pattern": "Heap",
+    "leetcodeNumber": 51,
+    "title": "N-Queens",
+    "topic": "Backtracking",
+    "pattern": "Backtracking",
     "difficulty": "Hard",
-    "leetcodeUrl": "https://leetcode.com/problemset/all/?search=Heap",
+    "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
     "companyTags": [
-      "Google",
-      "Meta",
-      "Google",
-      "Amazon"
+      "Amazon",
+      "Google"
     ],
-    "recognitionHint": "Combines Heap with state compression or monotonic data structure for O(N) or O(N log N).",
+    "recognitionHint": "Track occupied columns, main diagonals (r - c), and anti-diagonals (r + c).",
     "commonMistakes": [
-      "TLE due to non-memoized subproblems",
-      "Complex edge cases in graph/pointer cycle"
+      "Complex recursion base case missing",
+      "Time limit exceeded without optimal pruning"
     ],
-    "timeComplexity": "O(N log N)",
+    "timeComplexity": "O(N^2) or O(N log N)",
     "spaceComplexity": "O(N)",
     "estimatedTimeMin": 40,
     "status": "pending",

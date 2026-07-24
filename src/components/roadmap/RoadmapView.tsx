@@ -9,6 +9,7 @@ import { Filter } from 'lucide-react';
 export const RoadmapView: React.FC = () => {
   const { 
     problems, 
+    activeTab,
     searchQuery, 
     selectedDifficultyFilter, 
     setDifficultyFilter, 
@@ -23,14 +24,19 @@ export const RoadmapView: React.FC = () => {
   const [selectedModalProblem, setSelectedModalProblem] = useState<Problem | null>(null);
   const [selectedDayFilter, setSelectedDayFilter] = useState<number | 'All'>('All');
 
+  const isLibraryView = activeTab === 'library';
+
   const problemList = Object.values(problems);
 
   const filteredProblems = problemList.filter(p => {
-    if (selectedDayFilter !== 'All' && p.day !== selectedDayFilter) return false;
-    if (selectedDifficultyFilter !== 'All' && p.difficulty !== selectedDifficultyFilter) return false;
-    if (selectedCompanyFilter !== 'All' && !p.companyTags.includes(selectedCompanyFilter as TargetCompany)) return false;
-    if (selectedPatternFilter !== 'All' && p.pattern !== selectedPatternFilter) return false;
-    if (onlyFavorites && !p.favorite) return false;
+    // If in Library view, ignore difficulty/company/pattern filters unless searching
+    if (!isLibraryView) {
+      if (selectedDayFilter !== 'All' && p.day !== selectedDayFilter) return false;
+      if (selectedDifficultyFilter !== 'All' && p.difficulty !== selectedDifficultyFilter) return false;
+      if (selectedCompanyFilter !== 'All' && !p.companyTags.includes(selectedCompanyFilter as TargetCompany)) return false;
+      if (selectedPatternFilter !== 'All' && p.pattern !== selectedPatternFilter) return false;
+      if (onlyFavorites && !p.favorite) return false;
+    }
 
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
@@ -51,7 +57,7 @@ export const RoadmapView: React.FC = () => {
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
           <h1 className="text-2xl font-extrabold text-white tracking-tight">
-            30-Day Placement DSA Roadmap
+            {isLibraryView ? 'Problem Library' : '30-Day Placement DSA Roadmap'}
           </h1>
           <p className="text-xs text-slate-400">
             300 Problems • 10 Problems/Day (4 Easy, 4 Medium, 2 Hard)
@@ -65,11 +71,12 @@ export const RoadmapView: React.FC = () => {
         </div>
       </div>
 
-      <div className="glass-panel p-4 rounded-2xl border border-slate-800/80 space-y-3">
-        <div className="flex items-center space-x-2 text-xs font-bold text-slate-300">
-          <Filter className="w-4 h-4 text-brand-400" />
-          <span>Filters & Constraints</span>
-        </div>
+      {!isLibraryView && (
+        <div className="glass-panel p-4 rounded-2xl border border-slate-800/80 space-y-3">
+          <div className="flex items-center space-x-2 text-xs font-bold text-slate-300">
+            <Filter className="w-4 h-4 text-brand-400" />
+            <span>Filters & Constraints</span>
+          </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3">
           <select
@@ -148,6 +155,7 @@ export const RoadmapView: React.FC = () => {
           </button>
         </div>
       </div>
+      )}
 
       <div className="space-y-4">
         {INITIAL_DAY_PLANS.filter(dp => selectedDayFilter === 'All' || dp.day === selectedDayFilter).map((dayPlan) => {

@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Sidebar } from './Sidebar';
 import { Navbar } from './Navbar';
+import { AuthModal } from '../auth/AuthModal';
+import { SplashScreen } from './SplashScreen';
 import { useTrackerStore } from '../../store/useTrackerStore';
 
 interface MainLayoutProps {
@@ -26,6 +28,8 @@ export const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100 flex font-sans antialiased">
+      <SplashScreen />
+
       {/* Sidebar Overlay for Mobile */}
       {mobileSidebarOpen && (
         <div
@@ -48,6 +52,8 @@ export const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
           {children}
         </main>
       </div>
+
+      <AuthModal />
     </div>
   );
 };

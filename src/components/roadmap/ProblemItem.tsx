@@ -5,8 +5,7 @@ import {
   Star, 
   ExternalLink, 
   Lightbulb, 
-  Clock, 
-  ChevronRight 
+  Clock 
 } from 'lucide-react';
 import type { Problem } from '../../types/tracker';
 import { useTrackerStore } from '../../store/useTrackerStore';
@@ -19,6 +18,12 @@ interface ProblemItemProps {
 export const ProblemItem: React.FC<ProblemItemProps> = ({ problem, onOpenDetail }) => {
   const { toggleProblemCompleted, toggleProblemFavorite, startTimer } = useTrackerStore();
   const [showInlineHint, setShowInlineHint] = useState(false);
+  const [showTimerPicker, setShowTimerPicker] = useState(false);
+
+  const handleStartTimerWithDuration = (mins: number) => {
+    startTimer(problem.id, mins);
+    setShowTimerPicker(false);
+  };
 
   return (
     <div className={`p-4 rounded-2xl border transition-all duration-200 ${
@@ -75,7 +80,7 @@ export const ProblemItem: React.FC<ProblemItemProps> = ({ problem, onOpenDetail 
           </div>
         </div>
 
-        <div className="flex items-center space-x-2">
+        <div className="flex items-center space-x-2 relative">
           <button
             onClick={() => setShowInlineHint(!showInlineHint)}
             className={`p-2 rounded-xl border text-xs transition-colors ${
@@ -95,34 +100,48 @@ export const ProblemItem: React.FC<ProblemItemProps> = ({ problem, onOpenDetail 
                 ? 'bg-amber-500/10 border-amber-500/40 text-amber-400'
                 : 'bg-slate-800/60 border-slate-700/60 text-slate-400 hover:text-amber-400'
             }`}
+            title="Toggle Favorite"
           >
             <Star className="w-4 h-4 fill-current" />
           </button>
 
-          <button
-            onClick={() => startTimer(problem.id)}
-            className="p-2 rounded-xl bg-slate-800/60 border border-slate-700/60 text-slate-400 hover:text-white"
-            title="Start Timer"
-          >
-            <Clock className="w-4 h-4" />
-          </button>
+          <div className="relative">
+            <button
+              onClick={() => setShowTimerPicker(!showTimerPicker)}
+              className="p-2 rounded-xl bg-slate-800/60 border border-slate-700/60 text-slate-400 hover:text-white flex items-center space-x-1"
+              title="Set Customizable Timer (15m, 20m, 30m, 40m)"
+            >
+              <Clock className="w-4 h-4" />
+            </button>
+
+            {showTimerPicker && (
+              <div className="absolute right-0 top-11 z-30 p-2 bg-slate-900 border border-slate-700 rounded-xl shadow-xl space-y-1 w-32">
+                <p className="text-[10px] font-bold text-slate-400 px-2 py-0.5 border-b border-slate-800">
+                  Select Duration:
+                </p>
+                {[15, 20, 30, 40].map(mins => (
+                  <button
+                    key={mins}
+                    onClick={() => handleStartTimerWithDuration(mins)}
+                    className="w-full text-left px-2.5 py-1 text-xs font-semibold text-slate-200 hover:bg-brand-600 hover:text-white rounded-lg transition-colors"
+                  >
+                    ⏱ {mins} Minutes
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
 
           <a
             href={problem.leetcodeUrl}
             target="_blank"
             rel="noreferrer"
-            className="p-2 rounded-xl bg-brand-600/20 text-brand-300 hover:bg-brand-600/40 border border-brand-500/30"
-            title="Solve on LeetCode"
+            className="flex items-center space-x-1.5 px-3 py-1.5 rounded-xl bg-brand-600/20 text-brand-300 hover:bg-brand-600/40 border border-brand-500/30 text-xs font-bold transition-colors"
+            title="Solve directly on LeetCode"
           >
-            <ExternalLink className="w-4 h-4" />
+            <span>Solve</span>
+            <ExternalLink className="w-3.5 h-3.5" />
           </a>
-
-          <button
-            onClick={() => onOpenDetail(problem)}
-            className="p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200"
-          >
-            <ChevronRight className="w-4 h-4" />
-          </button>
         </div>
       </div>
 

@@ -9,7 +9,6 @@ import {
   Trophy, 
   Settings, 
   Flame, 
-  Sparkles,
   Sun,
   Moon
 } from 'lucide-react';
@@ -29,7 +28,7 @@ interface NavItem {
 }
 
 export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onCloseMobile }) => {
-  const { activeTab, setActiveTab, currentStreak, theme, setTheme, problems } = useTrackerStore();
+  const { activeTab, setActiveTab, currentStreak, theme, setTheme, problems, user, isLoggedIn, logout, setAuthModalOpen } = useTrackerStore();
 
   const totalProblems = Object.keys(problems).length;
   const solvedCount = Object.values(problems).filter(p => p.completed).length;
@@ -50,17 +49,17 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onCloseMobile }) => {
     <aside className={`fixed inset-y-0 left-0 z-40 w-64 bg-slate-900/95 dark:bg-slate-950/95 backdrop-blur-xl border-r border-slate-800/80 transform transition-transform duration-300 ease-in-out md:translate-x-0 ${isOpen ? 'translate-x-0' : '-translate-x-full'}`}>
       <div className="flex flex-col h-full">
         {/* Header Logo */}
-        <div className="flex items-center justify-between px-6 h-16 border-b border-slate-800/80">
+        <div className="flex items-center justify-between px-5 h-16 border-b border-slate-800/80">
           <div className="flex items-center space-x-3">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-brand-600 via-accent-500 to-indigo-500 flex items-center justify-center shadow-lg shadow-brand-500/20">
-              <Sparkles className="w-5 h-5 text-white" />
+            <div className="w-10 h-10 rounded-xl bg-slate-900 border border-slate-800 flex items-center justify-center overflow-hidden shadow-md">
+              <img src="/assets/favicon.png" alt="PrepForge Logo" className="w-8 h-8 object-contain drop-shadow-[0_0_8px_rgba(12,148,235,0.4)]" />
             </div>
             <div>
-              <h1 className="font-extrabold text-base tracking-tight bg-gradient-to-r from-white via-slate-100 to-slate-400 bg-clip-text text-transparent">
-                Placement Tracker
+              <h1 className="font-extrabold text-base tracking-tight bg-gradient-to-r from-white via-brand-200 to-slate-300 bg-clip-text text-transparent">
+                PrepForge
               </h1>
-              <span className="text-[10px] font-semibold tracking-wider text-brand-400 uppercase">
-                PWA Edition • 300 DSA
+              <span className="text-[10px] font-semibold text-brand-400 tracking-tight block">
+                Forge your Dream Offer
               </span>
             </div>
           </div>
@@ -132,8 +131,37 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onCloseMobile }) => {
             </p>
           </div>
 
+          {/* User Profile Card / Auth Action */}
+          <div className="mt-3 p-2.5 rounded-xl bg-slate-800/40 border border-slate-800 flex items-center justify-between">
+            {isLoggedIn && user ? (
+              <div className="flex items-center space-x-2 min-w-0">
+                <img src={user.avatar} alt={user.name} className="w-7 h-7 rounded-full object-cover flex-shrink-0" />
+                <div className="min-w-0 flex-1">
+                  <p className="text-xs font-bold text-slate-100 truncate">{user.name}</p>
+                  <p className="text-[9px] text-brand-400 capitalize">{user.provider} Auth</p>
+                </div>
+                <button
+                  onClick={() => logout()}
+                  className="px-2 py-1 text-[10px] bg-rose-500/20 text-rose-300 hover:bg-rose-500/30 rounded-lg font-bold transition-colors"
+                >
+                  Logout
+                </button>
+              </div>
+            ) : (
+              <div className="flex items-center justify-between w-full">
+                <span className="text-xs text-slate-400">Account</span>
+                <button
+                  onClick={() => setAuthModalOpen(true)}
+                  className="px-3 py-1 text-xs bg-brand-600 hover:bg-brand-500 text-white font-bold rounded-lg transition-colors"
+                >
+                  Sign In
+                </button>
+              </div>
+            )}
+          </div>
+
           {/* Theme Toggle Button */}
-          <div className="mt-3 flex items-center justify-between px-2 pt-2">
+          <div className="mt-2 flex items-center justify-between px-2 pt-2">
             <span className="text-xs text-slate-400">Theme</span>
             <button
               onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}

@@ -93,6 +93,14 @@ export interface DailyActivity {
   timeSpentMin: number;
 }
 
+export interface UserProfile {
+  id: string;
+  name: string;
+  email: string;
+  avatar: string;
+  provider: 'google' | 'github' | 'email' | 'guest';
+}
+
 export interface TrackerStoreState {
   problems: Record<string, Problem>;
   theme: 'dark' | 'light';
@@ -110,8 +118,25 @@ export interface TrackerStoreState {
   onlyFavorites: boolean;
   activeTab: 'dashboard' | 'roadmap' | 'library' | 'revision' | 'patterns' | 'stats' | 'achievements' | 'settings';
 
+  // Auth state
+  user: UserProfile | null;
+  isLoggedIn: boolean;
+  isAuthModalOpen: boolean;
+
+  // Notification state
+  notificationsEnabled: boolean;
+  reminderTime: string; // e.g. "20:00"
+  lastNotificationSentDate: string | null;
+
+  // Cloud Sync state
+  syncCode: string | null;
+  lastSyncedAt: string | null;
+  isSyncing: boolean;
+
+  // Customizable Timer state
   activeTimerProblemId: string | null;
   timerSeconds: number;
+  timerTargetMinutes: number; // e.g. 15, 20, 30, 40 min
   isTimerRunning: boolean;
 
   toggleProblemCompleted: (id: string) => void;
@@ -129,8 +154,26 @@ export interface TrackerStoreState {
   setOnlyFavorites: (fav: boolean) => void;
   setActiveTab: (tab: TrackerStoreState['activeTab']) => void;
   setTheme: (theme: 'dark' | 'light') => void;
+
+  // Auth actions
+  login: (provider: UserProfile['provider'], email?: string, name?: string) => void;
+  logout: () => void;
+  setAuthModalOpen: (open: boolean) => void;
+
+  // Notification actions
+  setNotificationsEnabled: (enabled: boolean) => Promise<boolean>;
+  setReminderTime: (time: string) => void;
+  sendTestNotification: () => Promise<boolean>;
+
+  // Cloud Sync actions
+  generateNewSyncCode: () => string;
+  setSyncCode: (code: string) => void;
+  pushCloudSync: () => Promise<boolean>;
+  pullCloudSync: (code?: string) => Promise<boolean>;
   
-  startTimer: (problemId: string) => void;
+  // Timer actions
+  setTimerTargetMinutes: (minutes: number) => void;
+  startTimer: (problemId: string, durationMinutes?: number) => void;
   pauseTimer: () => void;
   resumeTimer: () => void;
   stopTimer: (saveToProblem?: boolean) => void;

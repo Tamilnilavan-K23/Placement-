@@ -1,10 +1,10 @@
 {
-  "short_name": "Placement Tracker",
-  "name": "Placement Tracker PWA - 30 Day DSA Challenge",
+  "short_name": "PrepForge",
+  "name": "PrepForge — Forge your Dream Offer",
   "icons": [
     {
-      "src": "/vite.svg",
-      "type": "image/svg+xml",
+      "src": "/assets/favicon.png",
+      "type": "image/png",
       "sizes": "192x192 512x512"
     }
   ],

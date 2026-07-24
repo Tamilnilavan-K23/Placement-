@@ -4,6 +4,8 @@ import confetti from 'canvas-confetti';
 import type { TrackerStoreState, ProblemStatus, Difficulty, TargetCompany, PatternName, Problem } from '../types/tracker';
 import { INITIAL_PROBLEMS } from '../data/problemsData';
 import { getTodayDateString, calculateRevisionSchedule, calculateStreak } from '../utils/dateUtils';
+import { requestNotificationPermission, sendTestPushNotification } from '../utils/notificationUtils';
+import { generateDevicePairCode, pushProgressToCloud, pullProgressFromCloud } from '../utils/cloudSyncUtils';
 
 export const useTrackerStore = create<TrackerStoreState>()(
   persist(
@@ -24,8 +26,21 @@ export const useTrackerStore = create<TrackerStoreState>()(
       onlyFavorites: false,
       activeTab: 'dashboard',
 
+      user: null,
+      isLoggedIn: false,
+      isAuthModalOpen: false,
+
+      notificationsEnabled: false,
+      reminderTime: '20:00',
+      lastNotificationSentDate: null,
+
+      syncCode: null,
+      lastSyncedAt: null,
+      isSyncing: false,
+
       activeTimerProblemId: null,
       timerSeconds: 0,
+      timerTargetMinutes: 20,
       isTimerRunning: false,
 
       toggleProblemCompleted: (id: string) => {
@@ -186,10 +201,113 @@ export const useTrackerStore = create<TrackerStoreState>()(
       setActiveTab: (tab) => set({ activeTab: tab }),
       setTheme: (theme: 'dark' | 'light') => set({ theme }),
 
-      startTimer: (problemId: string) => {
+      login: (provider, email, name) => {
+        const userName = name || (email ? email.split('@')[0] : 'Placement Candidate');
+        const userEmail = email || `${userName.toLowerCase().replace(/\s+/g, '')}@placement.io`;
+        const avatar = provider === 'google' 
+          ? 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80'
+          : provider === 'github'
+          ? 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80'
+          : 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80';
+
+        set({
+          user: {
+            id: `user-${Date.now()}`,
+            name: userName,
+            email: userEmail,
+            avatar,
+            provider
+          },
+          isLoggedIn: true,
+          isAuthModalOpen: false
+        });
+      },
+
+      logout: () => set({ user: null, isLoggedIn: false }),
+      setAuthModalOpen: (open) => set({ isAuthModalOpen: open }),
+
+      setNotificationsEnabled: async (enabled: boolean) => {
+        if (enabled) {
+          const granted = await requestNotificationPermission();
+          set({ notificationsEnabled: granted });
+          return granted;
+        } else {
+          set({ notificationsEnabled: false });
+          return false;
+        }
+      },
+
+      setReminderTime: (time: string) => set({ reminderTime: time }),
+
+      sendTestNotification: async () => {
+        return await sendTestPushNotification();
+      },
+
+      generateNewSyncCode: () => {
+        const code = generateDevicePairCode();
+        set({ syncCode: code });
+        return code;
+      },
+
+      setSyncCode: (code: string) => set({ syncCode: code.trim().toUpperCase() }),
+
+      pushCloudSync: async () => {
+        const state = get();
+        const code = state.syncCode || state.generateNewSyncCode();
+        set({ isSyncing: true });
+
+        const success = await pushProgressToCloud(code, {
+          problems: state.problems,
+          dailyActivities: state.dailyActivities,
+          currentStreak: state.currentStreak,
+          longestStreak: state.longestStreak,
+          lastActiveDate: state.lastActiveDate,
+          user: state.user
+        });
+
+        set({
+          isSyncing: false,
+          lastSyncedAt: success ? new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : state.lastSyncedAt
+        });
+
+        return success;
+      },
+
+      pullCloudSync: async (customCode?: string) => {
+        const state = get();
+        const code = customCode || state.syncCode;
+        if (!code) return false;
+
+        set({ isSyncing: true });
+        const cloudData = await pullProgressFromCloud(code);
+
+        if (cloudData && cloudData.problems) {
+          set({
+            problems: { ...INITIAL_PROBLEMS, ...cloudData.problems },
+            dailyActivities: cloudData.dailyActivities || state.dailyActivities,
+            currentStreak: cloudData.currentStreak ?? state.currentStreak,
+            longestStreak: cloudData.longestStreak ?? state.longestStreak,
+            lastActiveDate: cloudData.lastActiveDate || state.lastActiveDate,
+            user: cloudData.user || state.user,
+            syncCode: code.toUpperCase(),
+            isSyncing: false,
+            lastSyncedAt: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+          });
+          return true;
+        }
+
+        set({ isSyncing: false });
+        return false;
+      },
+
+      setTimerTargetMinutes: (minutes: number) => set({ timerTargetMinutes: minutes }),
+
+      startTimer: (problemId: string, durationMinutes?: number) => {
+        const state = get();
         set({
           activeTimerProblemId: problemId,
           timerSeconds: 0,
+          timerTargetMinutes: durationMinutes || state.timerTargetMinutes || 20,
           isTimerRunning: true
         });
       },
@@ -261,8 +379,41 @@ export const useTrackerStore = create<TrackerStoreState>()(
       }
     }),
     {
-      name: 'placement-tracker-storage-v1',
-      storage: createJSONStorage(() => localStorage)
+      name: 'placement-tracker-storage-v5',
+      storage: createJSONStorage(() => localStorage),
+      merge: (persistedState: any, currentState: TrackerStoreState) => {
+        if (!persistedState) return currentState;
+
+        const mergedProblems: Record<string, Problem> = { ...INITIAL_PROBLEMS };
+
+        // Preserve user progress (status, completed, favorite, notes, timeSpentSec) while taking canonical title, leetcodeUrl, etc.
+        if (persistedState.problems) {
+          Object.keys(INITIAL_PROBLEMS).forEach(pid => {
+            const canonical = INITIAL_PROBLEMS[pid];
+            const stored = persistedState.problems[pid];
+
+            if (stored) {
+              mergedProblems[pid] = {
+                ...canonical,
+                status: stored.status || canonical.status,
+                completed: stored.completed ?? canonical.completed,
+                completedAt: stored.completedAt,
+                favorite: stored.favorite ?? canonical.favorite,
+                notes: stored.notes || canonical.notes,
+                timeSpentSec: stored.timeSpentSec || canonical.timeSpentSec,
+                revisionDates: stored.revisionDates || canonical.revisionDates,
+                revisionCompleted: stored.revisionCompleted || canonical.revisionCompleted
+              };
+            }
+          });
+        }
+
+        return {
+          ...currentState,
+          ...persistedState,
+          problems: mergedProblems
+        };
+      }
     }
   )
 );
